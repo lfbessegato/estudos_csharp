@@ -1,0 +1,11 @@
+D:\Treinamento\C Sharp\Projeto\Exemplo_Atribuicao\Exemplo_Atribuicao\obj\Debug\netcoreapp2.1\Exemplo_Atribuicao.csprojAssemblyReference.cache
+D:\Treinamento\C Sharp\Projeto\Exemplo_Atribuicao\Exemplo_Atribuicao\obj\Debug\netcoreapp2.1\Exemplo_Atribuicao.csproj.CoreCompileInputs.cache
+D:\Treinamento\C Sharp\Projeto\Exemplo_Atribuicao\Exemplo_Atribuicao\obj\Debug\netcoreapp2.1\Exemplo_Atribuicao.AssemblyInfoInputs.cache
+D:\Treinamento\C Sharp\Projeto\Exemplo_Atribuicao\Exemplo_Atribuicao\obj\Debug\netcoreapp2.1\Exemplo_Atribuicao.AssemblyInfo.cs
+D:\Treinamento\C Sharp\Projeto\Exemplo_Atribuicao\Exemplo_Atribuicao\bin\Debug\netcoreapp2.1\Exemplo_Atribuicao.deps.json
+D:\Treinamento\C Sharp\Projeto\Exemplo_Atribuicao\Exemplo_Atribuicao\bin\Debug\netcoreapp2.1\Exemplo_Atribuicao.runtimeconfig.json
+D:\Treinamento\C Sharp\Projeto\Exemplo_Atribuicao\Exemplo_Atribuicao\bin\Debug\netcoreapp2.1\Exemplo_Atribuicao.runtimeconfig.dev.json
+D:\Treinamento\C Sharp\Projeto\Exemplo_Atribuicao\Exemplo_Atribuicao\bin\Debug\netcoreapp2.1\Exemplo_Atribuicao.dll
+D:\Treinamento\C Sharp\Projeto\Exemplo_Atribuicao\Exemplo_Atribuicao\bin\Debug\netcoreapp2.1\Exemplo_Atribuicao.pdb
+D:\Treinamento\C Sharp\Projeto\Exemplo_Atribuicao\Exemplo_Atribuicao\obj\Debug\netcoreapp2.1\Exemplo_Atribuicao.dll
+D:\Treinamento\C Sharp\Projeto\Exemplo_Atribuicao\Exemplo_Atribuicao\obj\Debug\netcoreapp2.1\Exemplo_Atribuicao.pdb

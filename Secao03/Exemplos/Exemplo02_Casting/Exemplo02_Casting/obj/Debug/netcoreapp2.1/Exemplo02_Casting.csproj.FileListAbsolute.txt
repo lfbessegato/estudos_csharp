@@ -1,0 +1,11 @@
+D:\Treinamento\C Sharp\Projeto\Exemplo02_Casting\Exemplo02_Casting\bin\Debug\netcoreapp2.1\Exemplo02_Casting.deps.json
+D:\Treinamento\C Sharp\Projeto\Exemplo02_Casting\Exemplo02_Casting\bin\Debug\netcoreapp2.1\Exemplo02_Casting.runtimeconfig.json
+D:\Treinamento\C Sharp\Projeto\Exemplo02_Casting\Exemplo02_Casting\bin\Debug\netcoreapp2.1\Exemplo02_Casting.runtimeconfig.dev.json
+D:\Treinamento\C Sharp\Projeto\Exemplo02_Casting\Exemplo02_Casting\bin\Debug\netcoreapp2.1\Exemplo02_Casting.dll
+D:\Treinamento\C Sharp\Projeto\Exemplo02_Casting\Exemplo02_Casting\bin\Debug\netcoreapp2.1\Exemplo02_Casting.pdb
+D:\Treinamento\C Sharp\Projeto\Exemplo02_Casting\Exemplo02_Casting\obj\Debug\netcoreapp2.1\Exemplo02_Casting.csprojAssemblyReference.cache
+D:\Treinamento\C Sharp\Projeto\Exemplo02_Casting\Exemplo02_Casting\obj\Debug\netcoreapp2.1\Exemplo02_Casting.csproj.CoreCompileInputs.cache
+D:\Treinamento\C Sharp\Projeto\Exemplo02_Casting\Exemplo02_Casting\obj\Debug\netcoreapp2.1\Exemplo02_Casting.AssemblyInfoInputs.cache
+D:\Treinamento\C Sharp\Projeto\Exemplo02_Casting\Exemplo02_Casting\obj\Debug\netcoreapp2.1\Exemplo02_Casting.AssemblyInfo.cs
+D:\Treinamento\C Sharp\Projeto\Exemplo02_Casting\Exemplo02_Casting\obj\Debug\netcoreapp2.1\Exemplo02_Casting.dll
+D:\Treinamento\C Sharp\Projeto\Exemplo02_Casting\Exemplo02_Casting\obj\Debug\netcoreapp2.1\Exemplo02_Casting.pdb

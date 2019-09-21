@@ -1,0 +1,11 @@
+D:\Treinamento\C Sharp\Projeto\Exemplo01_EntradaDados\Exemplo01_EntradaDados\bin\Debug\netcoreapp2.1\Exemplo01_EntradaDados.deps.json
+D:\Treinamento\C Sharp\Projeto\Exemplo01_EntradaDados\Exemplo01_EntradaDados\bin\Debug\netcoreapp2.1\Exemplo01_EntradaDados.runtimeconfig.json
+D:\Treinamento\C Sharp\Projeto\Exemplo01_EntradaDados\Exemplo01_EntradaDados\bin\Debug\netcoreapp2.1\Exemplo01_EntradaDados.runtimeconfig.dev.json
+D:\Treinamento\C Sharp\Projeto\Exemplo01_EntradaDados\Exemplo01_EntradaDados\bin\Debug\netcoreapp2.1\Exemplo01_EntradaDados.dll
+D:\Treinamento\C Sharp\Projeto\Exemplo01_EntradaDados\Exemplo01_EntradaDados\bin\Debug\netcoreapp2.1\Exemplo01_EntradaDados.pdb
+D:\Treinamento\C Sharp\Projeto\Exemplo01_EntradaDados\Exemplo01_EntradaDados\obj\Debug\netcoreapp2.1\Exemplo01_EntradaDados.csprojAssemblyReference.cache
+D:\Treinamento\C Sharp\Projeto\Exemplo01_EntradaDados\Exemplo01_EntradaDados\obj\Debug\netcoreapp2.1\Exemplo01_EntradaDados.csproj.CoreCompileInputs.cache
+D:\Treinamento\C Sharp\Projeto\Exemplo01_EntradaDados\Exemplo01_EntradaDados\obj\Debug\netcoreapp2.1\Exemplo01_EntradaDados.AssemblyInfoInputs.cache
+D:\Treinamento\C Sharp\Projeto\Exemplo01_EntradaDados\Exemplo01_EntradaDados\obj\Debug\netcoreapp2.1\Exemplo01_EntradaDados.AssemblyInfo.cs
+D:\Treinamento\C Sharp\Projeto\Exemplo01_EntradaDados\Exemplo01_EntradaDados\obj\Debug\netcoreapp2.1\Exemplo01_EntradaDados.dll
+D:\Treinamento\C Sharp\Projeto\Exemplo01_EntradaDados\Exemplo01_EntradaDados\obj\Debug\netcoreapp2.1\Exemplo01_EntradaDados.pdb

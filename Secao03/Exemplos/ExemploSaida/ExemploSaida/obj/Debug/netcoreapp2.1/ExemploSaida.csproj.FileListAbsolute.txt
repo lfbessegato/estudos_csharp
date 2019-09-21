@@ -1,0 +1,11 @@
+D:\Treinamento\C Sharp\Projeto\ExemploSaida\ExemploSaida\bin\Debug\netcoreapp2.1\ExemploSaida.deps.json
+D:\Treinamento\C Sharp\Projeto\ExemploSaida\ExemploSaida\bin\Debug\netcoreapp2.1\ExemploSaida.runtimeconfig.json
+D:\Treinamento\C Sharp\Projeto\ExemploSaida\ExemploSaida\bin\Debug\netcoreapp2.1\ExemploSaida.runtimeconfig.dev.json
+D:\Treinamento\C Sharp\Projeto\ExemploSaida\ExemploSaida\bin\Debug\netcoreapp2.1\ExemploSaida.dll
+D:\Treinamento\C Sharp\Projeto\ExemploSaida\ExemploSaida\bin\Debug\netcoreapp2.1\ExemploSaida.pdb
+D:\Treinamento\C Sharp\Projeto\ExemploSaida\ExemploSaida\obj\Debug\netcoreapp2.1\ExemploSaida.csprojAssemblyReference.cache
+D:\Treinamento\C Sharp\Projeto\ExemploSaida\ExemploSaida\obj\Debug\netcoreapp2.1\ExemploSaida.csproj.CoreCompileInputs.cache
+D:\Treinamento\C Sharp\Projeto\ExemploSaida\ExemploSaida\obj\Debug\netcoreapp2.1\ExemploSaida.AssemblyInfoInputs.cache
+D:\Treinamento\C Sharp\Projeto\ExemploSaida\ExemploSaida\obj\Debug\netcoreapp2.1\ExemploSaida.AssemblyInfo.cs
+D:\Treinamento\C Sharp\Projeto\ExemploSaida\ExemploSaida\obj\Debug\netcoreapp2.1\ExemploSaida.dll
+D:\Treinamento\C Sharp\Projeto\ExemploSaida\ExemploSaida\obj\Debug\netcoreapp2.1\ExemploSaida.pdb

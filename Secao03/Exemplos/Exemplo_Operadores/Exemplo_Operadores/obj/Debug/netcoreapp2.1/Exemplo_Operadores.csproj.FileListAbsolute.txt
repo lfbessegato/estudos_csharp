@@ -1,0 +1,11 @@
+D:\Treinamento\C Sharp\Projeto\Exemplo_Operadores\Exemplo_Operadores\bin\Debug\netcoreapp2.1\Exemplo_Operadores.deps.json
+D:\Treinamento\C Sharp\Projeto\Exemplo_Operadores\Exemplo_Operadores\bin\Debug\netcoreapp2.1\Exemplo_Operadores.runtimeconfig.json
+D:\Treinamento\C Sharp\Projeto\Exemplo_Operadores\Exemplo_Operadores\bin\Debug\netcoreapp2.1\Exemplo_Operadores.runtimeconfig.dev.json
+D:\Treinamento\C Sharp\Projeto\Exemplo_Operadores\Exemplo_Operadores\bin\Debug\netcoreapp2.1\Exemplo_Operadores.dll
+D:\Treinamento\C Sharp\Projeto\Exemplo_Operadores\Exemplo_Operadores\bin\Debug\netcoreapp2.1\Exemplo_Operadores.pdb
+D:\Treinamento\C Sharp\Projeto\Exemplo_Operadores\Exemplo_Operadores\obj\Debug\netcoreapp2.1\Exemplo_Operadores.csprojAssemblyReference.cache
+D:\Treinamento\C Sharp\Projeto\Exemplo_Operadores\Exemplo_Operadores\obj\Debug\netcoreapp2.1\Exemplo_Operadores.csproj.CoreCompileInputs.cache
+D:\Treinamento\C Sharp\Projeto\Exemplo_Operadores\Exemplo_Operadores\obj\Debug\netcoreapp2.1\Exemplo_Operadores.AssemblyInfoInputs.cache
+D:\Treinamento\C Sharp\Projeto\Exemplo_Operadores\Exemplo_Operadores\obj\Debug\netcoreapp2.1\Exemplo_Operadores.AssemblyInfo.cs
+D:\Treinamento\C Sharp\Projeto\Exemplo_Operadores\Exemplo_Operadores\obj\Debug\netcoreapp2.1\Exemplo_Operadores.dll
+D:\Treinamento\C Sharp\Projeto\Exemplo_Operadores\Exemplo_Operadores\obj\Debug\netcoreapp2.1\Exemplo_Operadores.pdb

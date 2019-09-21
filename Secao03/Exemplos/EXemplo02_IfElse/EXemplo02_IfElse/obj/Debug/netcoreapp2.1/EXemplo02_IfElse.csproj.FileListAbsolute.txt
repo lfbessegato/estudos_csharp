@@ -1,0 +1,11 @@
+D:\Treinamento\C Sharp\Projeto\Secao03\EXemplo02_IfElse\EXemplo02_IfElse\obj\Debug\netcoreapp2.1\EXemplo02_IfElse.csprojAssemblyReference.cache
+D:\Treinamento\C Sharp\Projeto\Secao03\EXemplo02_IfElse\EXemplo02_IfElse\obj\Debug\netcoreapp2.1\EXemplo02_IfElse.csproj.CoreCompileInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao03\EXemplo02_IfElse\EXemplo02_IfElse\obj\Debug\netcoreapp2.1\EXemplo02_IfElse.AssemblyInfoInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao03\EXemplo02_IfElse\EXemplo02_IfElse\obj\Debug\netcoreapp2.1\EXemplo02_IfElse.AssemblyInfo.cs
+D:\Treinamento\C Sharp\Projeto\Secao03\EXemplo02_IfElse\EXemplo02_IfElse\bin\Debug\netcoreapp2.1\EXemplo02_IfElse.deps.json
+D:\Treinamento\C Sharp\Projeto\Secao03\EXemplo02_IfElse\EXemplo02_IfElse\bin\Debug\netcoreapp2.1\EXemplo02_IfElse.runtimeconfig.json
+D:\Treinamento\C Sharp\Projeto\Secao03\EXemplo02_IfElse\EXemplo02_IfElse\bin\Debug\netcoreapp2.1\EXemplo02_IfElse.runtimeconfig.dev.json
+D:\Treinamento\C Sharp\Projeto\Secao03\EXemplo02_IfElse\EXemplo02_IfElse\bin\Debug\netcoreapp2.1\EXemplo02_IfElse.dll
+D:\Treinamento\C Sharp\Projeto\Secao03\EXemplo02_IfElse\EXemplo02_IfElse\bin\Debug\netcoreapp2.1\EXemplo02_IfElse.pdb
+D:\Treinamento\C Sharp\Projeto\Secao03\EXemplo02_IfElse\EXemplo02_IfElse\obj\Debug\netcoreapp2.1\EXemplo02_IfElse.dll
+D:\Treinamento\C Sharp\Projeto\Secao03\EXemplo02_IfElse\EXemplo02_IfElse\obj\Debug\netcoreapp2.1\EXemplo02_IfElse.pdb

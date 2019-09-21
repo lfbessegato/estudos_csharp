@@ -1,0 +1,11 @@
+D:\Treinamento\C Sharp\Projeto\Secao_03_Exercicio01_uri1003\Secao_03_Exercicio01_uri1003\bin\Debug\netcoreapp2.1\Secao_03_Exercicio01_uri1003.deps.json
+D:\Treinamento\C Sharp\Projeto\Secao_03_Exercicio01_uri1003\Secao_03_Exercicio01_uri1003\bin\Debug\netcoreapp2.1\Secao_03_Exercicio01_uri1003.runtimeconfig.json
+D:\Treinamento\C Sharp\Projeto\Secao_03_Exercicio01_uri1003\Secao_03_Exercicio01_uri1003\bin\Debug\netcoreapp2.1\Secao_03_Exercicio01_uri1003.runtimeconfig.dev.json
+D:\Treinamento\C Sharp\Projeto\Secao_03_Exercicio01_uri1003\Secao_03_Exercicio01_uri1003\bin\Debug\netcoreapp2.1\Secao_03_Exercicio01_uri1003.dll
+D:\Treinamento\C Sharp\Projeto\Secao_03_Exercicio01_uri1003\Secao_03_Exercicio01_uri1003\bin\Debug\netcoreapp2.1\Secao_03_Exercicio01_uri1003.pdb
+D:\Treinamento\C Sharp\Projeto\Secao_03_Exercicio01_uri1003\Secao_03_Exercicio01_uri1003\obj\Debug\netcoreapp2.1\Secao_03_Exercicio01_uri1003.csprojAssemblyReference.cache
+D:\Treinamento\C Sharp\Projeto\Secao_03_Exercicio01_uri1003\Secao_03_Exercicio01_uri1003\obj\Debug\netcoreapp2.1\Secao_03_Exercicio01_uri1003.csproj.CoreCompileInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao_03_Exercicio01_uri1003\Secao_03_Exercicio01_uri1003\obj\Debug\netcoreapp2.1\Secao_03_Exercicio01_uri1003.AssemblyInfoInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao_03_Exercicio01_uri1003\Secao_03_Exercicio01_uri1003\obj\Debug\netcoreapp2.1\Secao_03_Exercicio01_uri1003.AssemblyInfo.cs
+D:\Treinamento\C Sharp\Projeto\Secao_03_Exercicio01_uri1003\Secao_03_Exercicio01_uri1003\obj\Debug\netcoreapp2.1\Secao_03_Exercicio01_uri1003.dll
+D:\Treinamento\C Sharp\Projeto\Secao_03_Exercicio01_uri1003\Secao_03_Exercicio01_uri1003\obj\Debug\netcoreapp2.1\Secao_03_Exercicio01_uri1003.pdb

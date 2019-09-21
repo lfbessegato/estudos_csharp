@@ -1,0 +1,11 @@
+D:\Treinamento\C Sharp\Projeto\Secao03\Exemplo01_While\Exemplo01_While\bin\Debug\netcoreapp2.1\Exemplo01_While.deps.json
+D:\Treinamento\C Sharp\Projeto\Secao03\Exemplo01_While\Exemplo01_While\bin\Debug\netcoreapp2.1\Exemplo01_While.runtimeconfig.json
+D:\Treinamento\C Sharp\Projeto\Secao03\Exemplo01_While\Exemplo01_While\bin\Debug\netcoreapp2.1\Exemplo01_While.runtimeconfig.dev.json
+D:\Treinamento\C Sharp\Projeto\Secao03\Exemplo01_While\Exemplo01_While\bin\Debug\netcoreapp2.1\Exemplo01_While.dll
+D:\Treinamento\C Sharp\Projeto\Secao03\Exemplo01_While\Exemplo01_While\bin\Debug\netcoreapp2.1\Exemplo01_While.pdb
+D:\Treinamento\C Sharp\Projeto\Secao03\Exemplo01_While\Exemplo01_While\obj\Debug\netcoreapp2.1\Exemplo01_While.csprojAssemblyReference.cache
+D:\Treinamento\C Sharp\Projeto\Secao03\Exemplo01_While\Exemplo01_While\obj\Debug\netcoreapp2.1\Exemplo01_While.csproj.CoreCompileInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao03\Exemplo01_While\Exemplo01_While\obj\Debug\netcoreapp2.1\Exemplo01_While.AssemblyInfoInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao03\Exemplo01_While\Exemplo01_While\obj\Debug\netcoreapp2.1\Exemplo01_While.AssemblyInfo.cs
+D:\Treinamento\C Sharp\Projeto\Secao03\Exemplo01_While\Exemplo01_While\obj\Debug\netcoreapp2.1\Exemplo01_While.dll
+D:\Treinamento\C Sharp\Projeto\Secao03\Exemplo01_While\Exemplo01_While\obj\Debug\netcoreapp2.1\Exemplo01_While.pdb

@@ -1,0 +1,11 @@
+D:\Treinamento\C Sharp\Projeto\Secao03\Secao_03_Exercicio_For03\Secao_03_Exercicio_For03\obj\Debug\netcoreapp2.1\Secao_03_Exercicio_For03.csprojAssemblyReference.cache
+D:\Treinamento\C Sharp\Projeto\Secao03\Secao_03_Exercicio_For03\Secao_03_Exercicio_For03\obj\Debug\netcoreapp2.1\Secao_03_Exercicio_For03.csproj.CoreCompileInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao03\Secao_03_Exercicio_For03\Secao_03_Exercicio_For03\obj\Debug\netcoreapp2.1\Secao_03_Exercicio_For03.AssemblyInfoInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao03\Secao_03_Exercicio_For03\Secao_03_Exercicio_For03\obj\Debug\netcoreapp2.1\Secao_03_Exercicio_For03.AssemblyInfo.cs
+D:\Treinamento\C Sharp\Projeto\Secao03\Secao_03_Exercicio_For03\Secao_03_Exercicio_For03\bin\Debug\netcoreapp2.1\Secao_03_Exercicio_For03.deps.json
+D:\Treinamento\C Sharp\Projeto\Secao03\Secao_03_Exercicio_For03\Secao_03_Exercicio_For03\bin\Debug\netcoreapp2.1\Secao_03_Exercicio_For03.runtimeconfig.json
+D:\Treinamento\C Sharp\Projeto\Secao03\Secao_03_Exercicio_For03\Secao_03_Exercicio_For03\bin\Debug\netcoreapp2.1\Secao_03_Exercicio_For03.runtimeconfig.dev.json
+D:\Treinamento\C Sharp\Projeto\Secao03\Secao_03_Exercicio_For03\Secao_03_Exercicio_For03\bin\Debug\netcoreapp2.1\Secao_03_Exercicio_For03.dll
+D:\Treinamento\C Sharp\Projeto\Secao03\Secao_03_Exercicio_For03\Secao_03_Exercicio_For03\bin\Debug\netcoreapp2.1\Secao_03_Exercicio_For03.pdb
+D:\Treinamento\C Sharp\Projeto\Secao03\Secao_03_Exercicio_For03\Secao_03_Exercicio_For03\obj\Debug\netcoreapp2.1\Secao_03_Exercicio_For03.dll
+D:\Treinamento\C Sharp\Projeto\Secao03\Secao_03_Exercicio_For03\Secao_03_Exercicio_For03\obj\Debug\netcoreapp2.1\Secao_03_Exercicio_For03.pdb

@@ -1,0 +1,11 @@
+D:\Treinamento\C Sharp\Projeto\Secao03\Exemplo01_Logicos\Exemplo01_Logicos\bin\Debug\netcoreapp2.1\Exemplo01_Logicos.deps.json
+D:\Treinamento\C Sharp\Projeto\Secao03\Exemplo01_Logicos\Exemplo01_Logicos\bin\Debug\netcoreapp2.1\Exemplo01_Logicos.runtimeconfig.json
+D:\Treinamento\C Sharp\Projeto\Secao03\Exemplo01_Logicos\Exemplo01_Logicos\bin\Debug\netcoreapp2.1\Exemplo01_Logicos.runtimeconfig.dev.json
+D:\Treinamento\C Sharp\Projeto\Secao03\Exemplo01_Logicos\Exemplo01_Logicos\bin\Debug\netcoreapp2.1\Exemplo01_Logicos.dll
+D:\Treinamento\C Sharp\Projeto\Secao03\Exemplo01_Logicos\Exemplo01_Logicos\bin\Debug\netcoreapp2.1\Exemplo01_Logicos.pdb
+D:\Treinamento\C Sharp\Projeto\Secao03\Exemplo01_Logicos\Exemplo01_Logicos\obj\Debug\netcoreapp2.1\Exemplo01_Logicos.csprojAssemblyReference.cache
+D:\Treinamento\C Sharp\Projeto\Secao03\Exemplo01_Logicos\Exemplo01_Logicos\obj\Debug\netcoreapp2.1\Exemplo01_Logicos.csproj.CoreCompileInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao03\Exemplo01_Logicos\Exemplo01_Logicos\obj\Debug\netcoreapp2.1\Exemplo01_Logicos.AssemblyInfoInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao03\Exemplo01_Logicos\Exemplo01_Logicos\obj\Debug\netcoreapp2.1\Exemplo01_Logicos.AssemblyInfo.cs
+D:\Treinamento\C Sharp\Projeto\Secao03\Exemplo01_Logicos\Exemplo01_Logicos\obj\Debug\netcoreapp2.1\Exemplo01_Logicos.dll
+D:\Treinamento\C Sharp\Projeto\Secao03\Exemplo01_Logicos\Exemplo01_Logicos\obj\Debug\netcoreapp2.1\Exemplo01_Logicos.pdb

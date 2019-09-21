@@ -1,0 +1,11 @@
+D:\Treinamento\C Sharp\Projeto\Secao03\Exemplo01_Comparativo\Exemplo01_Comparativo\bin\Debug\netcoreapp2.1\Exemplo01_Comparativo.deps.json
+D:\Treinamento\C Sharp\Projeto\Secao03\Exemplo01_Comparativo\Exemplo01_Comparativo\bin\Debug\netcoreapp2.1\Exemplo01_Comparativo.runtimeconfig.json
+D:\Treinamento\C Sharp\Projeto\Secao03\Exemplo01_Comparativo\Exemplo01_Comparativo\bin\Debug\netcoreapp2.1\Exemplo01_Comparativo.runtimeconfig.dev.json
+D:\Treinamento\C Sharp\Projeto\Secao03\Exemplo01_Comparativo\Exemplo01_Comparativo\bin\Debug\netcoreapp2.1\Exemplo01_Comparativo.dll
+D:\Treinamento\C Sharp\Projeto\Secao03\Exemplo01_Comparativo\Exemplo01_Comparativo\bin\Debug\netcoreapp2.1\Exemplo01_Comparativo.pdb
+D:\Treinamento\C Sharp\Projeto\Secao03\Exemplo01_Comparativo\Exemplo01_Comparativo\obj\Debug\netcoreapp2.1\Exemplo01_Comparativo.csprojAssemblyReference.cache
+D:\Treinamento\C Sharp\Projeto\Secao03\Exemplo01_Comparativo\Exemplo01_Comparativo\obj\Debug\netcoreapp2.1\Exemplo01_Comparativo.csproj.CoreCompileInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao03\Exemplo01_Comparativo\Exemplo01_Comparativo\obj\Debug\netcoreapp2.1\Exemplo01_Comparativo.AssemblyInfoInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao03\Exemplo01_Comparativo\Exemplo01_Comparativo\obj\Debug\netcoreapp2.1\Exemplo01_Comparativo.AssemblyInfo.cs
+D:\Treinamento\C Sharp\Projeto\Secao03\Exemplo01_Comparativo\Exemplo01_Comparativo\obj\Debug\netcoreapp2.1\Exemplo01_Comparativo.dll
+D:\Treinamento\C Sharp\Projeto\Secao03\Exemplo01_Comparativo\Exemplo01_Comparativo\obj\Debug\netcoreapp2.1\Exemplo01_Comparativo.pdb
