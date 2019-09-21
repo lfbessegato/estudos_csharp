@@ -1,0 +1,11 @@
+D:\Treinamento\C Sharp\Projeto\Course\Course\bin\Debug\netcoreapp2.1\Course.deps.json
+D:\Treinamento\C Sharp\Projeto\Course\Course\bin\Debug\netcoreapp2.1\Course.runtimeconfig.json
+D:\Treinamento\C Sharp\Projeto\Course\Course\bin\Debug\netcoreapp2.1\Course.runtimeconfig.dev.json
+D:\Treinamento\C Sharp\Projeto\Course\Course\bin\Debug\netcoreapp2.1\Course.dll
+D:\Treinamento\C Sharp\Projeto\Course\Course\bin\Debug\netcoreapp2.1\Course.pdb
+D:\Treinamento\C Sharp\Projeto\Course\Course\obj\Debug\netcoreapp2.1\Course.csprojAssemblyReference.cache
+D:\Treinamento\C Sharp\Projeto\Course\Course\obj\Debug\netcoreapp2.1\Course.csproj.CoreCompileInputs.cache
+D:\Treinamento\C Sharp\Projeto\Course\Course\obj\Debug\netcoreapp2.1\Course.AssemblyInfoInputs.cache
+D:\Treinamento\C Sharp\Projeto\Course\Course\obj\Debug\netcoreapp2.1\Course.AssemblyInfo.cs
+D:\Treinamento\C Sharp\Projeto\Course\Course\obj\Debug\netcoreapp2.1\Course.dll
+D:\Treinamento\C Sharp\Projeto\Course\Course\obj\Debug\netcoreapp2.1\Course.pdb
