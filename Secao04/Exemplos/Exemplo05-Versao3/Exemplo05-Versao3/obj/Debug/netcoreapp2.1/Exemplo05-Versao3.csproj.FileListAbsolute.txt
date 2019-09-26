@@ -1,0 +1,11 @@
+D:\Treinamento\C Sharp\Projeto\Secao04\Exemplos\Exemplo05-Versao3\Exemplo05-Versao3\bin\Debug\netcoreapp2.1\Exemplo05-Versao3.deps.json
+D:\Treinamento\C Sharp\Projeto\Secao04\Exemplos\Exemplo05-Versao3\Exemplo05-Versao3\bin\Debug\netcoreapp2.1\Exemplo05-Versao3.runtimeconfig.json
+D:\Treinamento\C Sharp\Projeto\Secao04\Exemplos\Exemplo05-Versao3\Exemplo05-Versao3\bin\Debug\netcoreapp2.1\Exemplo05-Versao3.runtimeconfig.dev.json
+D:\Treinamento\C Sharp\Projeto\Secao04\Exemplos\Exemplo05-Versao3\Exemplo05-Versao3\bin\Debug\netcoreapp2.1\Exemplo05-Versao3.dll
+D:\Treinamento\C Sharp\Projeto\Secao04\Exemplos\Exemplo05-Versao3\Exemplo05-Versao3\bin\Debug\netcoreapp2.1\Exemplo05-Versao3.pdb
+D:\Treinamento\C Sharp\Projeto\Secao04\Exemplos\Exemplo05-Versao3\Exemplo05-Versao3\obj\Debug\netcoreapp2.1\Exemplo05-Versao3.csprojAssemblyReference.cache
+D:\Treinamento\C Sharp\Projeto\Secao04\Exemplos\Exemplo05-Versao3\Exemplo05-Versao3\obj\Debug\netcoreapp2.1\Exemplo05-Versao3.csproj.CoreCompileInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao04\Exemplos\Exemplo05-Versao3\Exemplo05-Versao3\obj\Debug\netcoreapp2.1\Exemplo05-Versao3.AssemblyInfoInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao04\Exemplos\Exemplo05-Versao3\Exemplo05-Versao3\obj\Debug\netcoreapp2.1\Exemplo05-Versao3.AssemblyInfo.cs
+D:\Treinamento\C Sharp\Projeto\Secao04\Exemplos\Exemplo05-Versao3\Exemplo05-Versao3\obj\Debug\netcoreapp2.1\Exemplo05-Versao3.dll
+D:\Treinamento\C Sharp\Projeto\Secao04\Exemplos\Exemplo05-Versao3\Exemplo05-Versao3\obj\Debug\netcoreapp2.1\Exemplo05-Versao3.pdb

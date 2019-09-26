@@ -1,0 +1,11 @@
+D:\Treinamento\C Sharp\Projeto\Secao04\Exemplos\Exemplo03\Exemplo03\bin\Debug\netcoreapp2.1\Exemplo03.deps.json
+D:\Treinamento\C Sharp\Projeto\Secao04\Exemplos\Exemplo03\Exemplo03\bin\Debug\netcoreapp2.1\Exemplo03.runtimeconfig.json
+D:\Treinamento\C Sharp\Projeto\Secao04\Exemplos\Exemplo03\Exemplo03\bin\Debug\netcoreapp2.1\Exemplo03.runtimeconfig.dev.json
+D:\Treinamento\C Sharp\Projeto\Secao04\Exemplos\Exemplo03\Exemplo03\bin\Debug\netcoreapp2.1\Exemplo03.dll
+D:\Treinamento\C Sharp\Projeto\Secao04\Exemplos\Exemplo03\Exemplo03\bin\Debug\netcoreapp2.1\Exemplo03.pdb
+D:\Treinamento\C Sharp\Projeto\Secao04\Exemplos\Exemplo03\Exemplo03\obj\Debug\netcoreapp2.1\Exemplo03.csprojAssemblyReference.cache
+D:\Treinamento\C Sharp\Projeto\Secao04\Exemplos\Exemplo03\Exemplo03\obj\Debug\netcoreapp2.1\Exemplo03.csproj.CoreCompileInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao04\Exemplos\Exemplo03\Exemplo03\obj\Debug\netcoreapp2.1\Exemplo03.AssemblyInfoInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao04\Exemplos\Exemplo03\Exemplo03\obj\Debug\netcoreapp2.1\Exemplo03.AssemblyInfo.cs
+D:\Treinamento\C Sharp\Projeto\Secao04\Exemplos\Exemplo03\Exemplo03\obj\Debug\netcoreapp2.1\Exemplo03.dll
+D:\Treinamento\C Sharp\Projeto\Secao04\Exemplos\Exemplo03\Exemplo03\obj\Debug\netcoreapp2.1\Exemplo03.pdb
