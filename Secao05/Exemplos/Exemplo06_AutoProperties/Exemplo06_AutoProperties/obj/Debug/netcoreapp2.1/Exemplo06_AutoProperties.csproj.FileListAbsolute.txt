@@ -1,0 +1,11 @@
+D:\Treinamento\C Sharp\Projeto\Secao05\Exemplos\Exemplo06_AutoProperties\Exemplo06_AutoProperties\bin\Debug\netcoreapp2.1\Exemplo06_AutoProperties.deps.json
+D:\Treinamento\C Sharp\Projeto\Secao05\Exemplos\Exemplo06_AutoProperties\Exemplo06_AutoProperties\bin\Debug\netcoreapp2.1\Exemplo06_AutoProperties.runtimeconfig.json
+D:\Treinamento\C Sharp\Projeto\Secao05\Exemplos\Exemplo06_AutoProperties\Exemplo06_AutoProperties\bin\Debug\netcoreapp2.1\Exemplo06_AutoProperties.runtimeconfig.dev.json
+D:\Treinamento\C Sharp\Projeto\Secao05\Exemplos\Exemplo06_AutoProperties\Exemplo06_AutoProperties\bin\Debug\netcoreapp2.1\Exemplo06_AutoProperties.dll
+D:\Treinamento\C Sharp\Projeto\Secao05\Exemplos\Exemplo06_AutoProperties\Exemplo06_AutoProperties\bin\Debug\netcoreapp2.1\Exemplo06_AutoProperties.pdb
+D:\Treinamento\C Sharp\Projeto\Secao05\Exemplos\Exemplo06_AutoProperties\Exemplo06_AutoProperties\obj\Debug\netcoreapp2.1\Exemplo06_AutoProperties.csprojAssemblyReference.cache
+D:\Treinamento\C Sharp\Projeto\Secao05\Exemplos\Exemplo06_AutoProperties\Exemplo06_AutoProperties\obj\Debug\netcoreapp2.1\Exemplo06_AutoProperties.csproj.CoreCompileInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao05\Exemplos\Exemplo06_AutoProperties\Exemplo06_AutoProperties\obj\Debug\netcoreapp2.1\Exemplo06_AutoProperties.AssemblyInfoInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao05\Exemplos\Exemplo06_AutoProperties\Exemplo06_AutoProperties\obj\Debug\netcoreapp2.1\Exemplo06_AutoProperties.AssemblyInfo.cs
+D:\Treinamento\C Sharp\Projeto\Secao05\Exemplos\Exemplo06_AutoProperties\Exemplo06_AutoProperties\obj\Debug\netcoreapp2.1\Exemplo06_AutoProperties.dll
+D:\Treinamento\C Sharp\Projeto\Secao05\Exemplos\Exemplo06_AutoProperties\Exemplo06_AutoProperties\obj\Debug\netcoreapp2.1\Exemplo06_AutoProperties.pdb

@@ -1,0 +1,11 @@
+D:\Treinamento\C Sharp\Projeto\Secao05\Exemplos\Exemplo02_Sobrecarga\Exemplo02_Sobrecarga\bin\Debug\netcoreapp2.1\Exemplo02_Sobrecarga.deps.json
+D:\Treinamento\C Sharp\Projeto\Secao05\Exemplos\Exemplo02_Sobrecarga\Exemplo02_Sobrecarga\bin\Debug\netcoreapp2.1\Exemplo02_Sobrecarga.runtimeconfig.json
+D:\Treinamento\C Sharp\Projeto\Secao05\Exemplos\Exemplo02_Sobrecarga\Exemplo02_Sobrecarga\bin\Debug\netcoreapp2.1\Exemplo02_Sobrecarga.runtimeconfig.dev.json
+D:\Treinamento\C Sharp\Projeto\Secao05\Exemplos\Exemplo02_Sobrecarga\Exemplo02_Sobrecarga\bin\Debug\netcoreapp2.1\Exemplo02_Sobrecarga.dll
+D:\Treinamento\C Sharp\Projeto\Secao05\Exemplos\Exemplo02_Sobrecarga\Exemplo02_Sobrecarga\bin\Debug\netcoreapp2.1\Exemplo02_Sobrecarga.pdb
+D:\Treinamento\C Sharp\Projeto\Secao05\Exemplos\Exemplo02_Sobrecarga\Exemplo02_Sobrecarga\obj\Debug\netcoreapp2.1\Exemplo02_Sobrecarga.csprojAssemblyReference.cache
+D:\Treinamento\C Sharp\Projeto\Secao05\Exemplos\Exemplo02_Sobrecarga\Exemplo02_Sobrecarga\obj\Debug\netcoreapp2.1\Exemplo02_Sobrecarga.csproj.CoreCompileInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao05\Exemplos\Exemplo02_Sobrecarga\Exemplo02_Sobrecarga\obj\Debug\netcoreapp2.1\Exemplo02_Sobrecarga.AssemblyInfoInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao05\Exemplos\Exemplo02_Sobrecarga\Exemplo02_Sobrecarga\obj\Debug\netcoreapp2.1\Exemplo02_Sobrecarga.AssemblyInfo.cs
+D:\Treinamento\C Sharp\Projeto\Secao05\Exemplos\Exemplo02_Sobrecarga\Exemplo02_Sobrecarga\obj\Debug\netcoreapp2.1\Exemplo02_Sobrecarga.dll
+D:\Treinamento\C Sharp\Projeto\Secao05\Exemplos\Exemplo02_Sobrecarga\Exemplo02_Sobrecarga\obj\Debug\netcoreapp2.1\Exemplo02_Sobrecarga.pdb

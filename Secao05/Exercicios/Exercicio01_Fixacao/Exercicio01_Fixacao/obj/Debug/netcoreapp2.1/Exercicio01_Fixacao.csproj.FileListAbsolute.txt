@@ -1,0 +1,11 @@
+D:\Treinamento\C Sharp\Projeto\Secao05\Exercicios\Exercicio01_Fixacao\Exercicio01_Fixacao\bin\Debug\netcoreapp2.1\Exercicio01_Fixacao.deps.json
+D:\Treinamento\C Sharp\Projeto\Secao05\Exercicios\Exercicio01_Fixacao\Exercicio01_Fixacao\bin\Debug\netcoreapp2.1\Exercicio01_Fixacao.runtimeconfig.json
+D:\Treinamento\C Sharp\Projeto\Secao05\Exercicios\Exercicio01_Fixacao\Exercicio01_Fixacao\bin\Debug\netcoreapp2.1\Exercicio01_Fixacao.runtimeconfig.dev.json
+D:\Treinamento\C Sharp\Projeto\Secao05\Exercicios\Exercicio01_Fixacao\Exercicio01_Fixacao\bin\Debug\netcoreapp2.1\Exercicio01_Fixacao.dll
+D:\Treinamento\C Sharp\Projeto\Secao05\Exercicios\Exercicio01_Fixacao\Exercicio01_Fixacao\bin\Debug\netcoreapp2.1\Exercicio01_Fixacao.pdb
+D:\Treinamento\C Sharp\Projeto\Secao05\Exercicios\Exercicio01_Fixacao\Exercicio01_Fixacao\obj\Debug\netcoreapp2.1\Exercicio01_Fixacao.csprojAssemblyReference.cache
+D:\Treinamento\C Sharp\Projeto\Secao05\Exercicios\Exercicio01_Fixacao\Exercicio01_Fixacao\obj\Debug\netcoreapp2.1\Exercicio01_Fixacao.csproj.CoreCompileInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao05\Exercicios\Exercicio01_Fixacao\Exercicio01_Fixacao\obj\Debug\netcoreapp2.1\Exercicio01_Fixacao.AssemblyInfoInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao05\Exercicios\Exercicio01_Fixacao\Exercicio01_Fixacao\obj\Debug\netcoreapp2.1\Exercicio01_Fixacao.AssemblyInfo.cs
+D:\Treinamento\C Sharp\Projeto\Secao05\Exercicios\Exercicio01_Fixacao\Exercicio01_Fixacao\obj\Debug\netcoreapp2.1\Exercicio01_Fixacao.dll
+D:\Treinamento\C Sharp\Projeto\Secao05\Exercicios\Exercicio01_Fixacao\Exercicio01_Fixacao\obj\Debug\netcoreapp2.1\Exercicio01_Fixacao.pdb

@@ -1,0 +1,11 @@
+D:\Treinamento\C Sharp\Projeto\Secao05\Exemplos\Exemplo05_Properties\Exemplo05_Properties\bin\Debug\netcoreapp2.1\Exemplo05_Properties.deps.json
+D:\Treinamento\C Sharp\Projeto\Secao05\Exemplos\Exemplo05_Properties\Exemplo05_Properties\bin\Debug\netcoreapp2.1\Exemplo05_Properties.runtimeconfig.json
+D:\Treinamento\C Sharp\Projeto\Secao05\Exemplos\Exemplo05_Properties\Exemplo05_Properties\bin\Debug\netcoreapp2.1\Exemplo05_Properties.runtimeconfig.dev.json
+D:\Treinamento\C Sharp\Projeto\Secao05\Exemplos\Exemplo05_Properties\Exemplo05_Properties\bin\Debug\netcoreapp2.1\Exemplo05_Properties.dll
+D:\Treinamento\C Sharp\Projeto\Secao05\Exemplos\Exemplo05_Properties\Exemplo05_Properties\bin\Debug\netcoreapp2.1\Exemplo05_Properties.pdb
+D:\Treinamento\C Sharp\Projeto\Secao05\Exemplos\Exemplo05_Properties\Exemplo05_Properties\obj\Debug\netcoreapp2.1\Exemplo05_Properties.csprojAssemblyReference.cache
+D:\Treinamento\C Sharp\Projeto\Secao05\Exemplos\Exemplo05_Properties\Exemplo05_Properties\obj\Debug\netcoreapp2.1\Exemplo05_Properties.csproj.CoreCompileInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao05\Exemplos\Exemplo05_Properties\Exemplo05_Properties\obj\Debug\netcoreapp2.1\Exemplo05_Properties.AssemblyInfoInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao05\Exemplos\Exemplo05_Properties\Exemplo05_Properties\obj\Debug\netcoreapp2.1\Exemplo05_Properties.AssemblyInfo.cs
+D:\Treinamento\C Sharp\Projeto\Secao05\Exemplos\Exemplo05_Properties\Exemplo05_Properties\obj\Debug\netcoreapp2.1\Exemplo05_Properties.dll
+D:\Treinamento\C Sharp\Projeto\Secao05\Exemplos\Exemplo05_Properties\Exemplo05_Properties\obj\Debug\netcoreapp2.1\Exemplo05_Properties.pdb
