@@ -1,0 +1,11 @@
+D:\Treinamento\C Sharp\Projeto\Secao06\Exemplos\Exemplo01_ForEach\Exemplo01_ForEach\bin\Debug\netcoreapp2.1\Exemplo01_ForEach.deps.json
+D:\Treinamento\C Sharp\Projeto\Secao06\Exemplos\Exemplo01_ForEach\Exemplo01_ForEach\bin\Debug\netcoreapp2.1\Exemplo01_ForEach.runtimeconfig.json
+D:\Treinamento\C Sharp\Projeto\Secao06\Exemplos\Exemplo01_ForEach\Exemplo01_ForEach\bin\Debug\netcoreapp2.1\Exemplo01_ForEach.runtimeconfig.dev.json
+D:\Treinamento\C Sharp\Projeto\Secao06\Exemplos\Exemplo01_ForEach\Exemplo01_ForEach\bin\Debug\netcoreapp2.1\Exemplo01_ForEach.dll
+D:\Treinamento\C Sharp\Projeto\Secao06\Exemplos\Exemplo01_ForEach\Exemplo01_ForEach\bin\Debug\netcoreapp2.1\Exemplo01_ForEach.pdb
+D:\Treinamento\C Sharp\Projeto\Secao06\Exemplos\Exemplo01_ForEach\Exemplo01_ForEach\obj\Debug\netcoreapp2.1\Exemplo01_ForEach.csprojAssemblyReference.cache
+D:\Treinamento\C Sharp\Projeto\Secao06\Exemplos\Exemplo01_ForEach\Exemplo01_ForEach\obj\Debug\netcoreapp2.1\Exemplo01_ForEach.csproj.CoreCompileInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao06\Exemplos\Exemplo01_ForEach\Exemplo01_ForEach\obj\Debug\netcoreapp2.1\Exemplo01_ForEach.AssemblyInfoInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao06\Exemplos\Exemplo01_ForEach\Exemplo01_ForEach\obj\Debug\netcoreapp2.1\Exemplo01_ForEach.AssemblyInfo.cs
+D:\Treinamento\C Sharp\Projeto\Secao06\Exemplos\Exemplo01_ForEach\Exemplo01_ForEach\obj\Debug\netcoreapp2.1\Exemplo01_ForEach.dll
+D:\Treinamento\C Sharp\Projeto\Secao06\Exemplos\Exemplo01_ForEach\Exemplo01_ForEach\obj\Debug\netcoreapp2.1\Exemplo01_ForEach.pdb

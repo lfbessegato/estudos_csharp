@@ -1,0 +1,11 @@
+D:\Treinamento\C Sharp\Projeto\Secao06\Exemplos\Exemplo02_Params_Ref\Exemplo02_Params_Ref\obj\Debug\netcoreapp2.1\Exemplo02_Params_Ref.csprojAssemblyReference.cache
+D:\Treinamento\C Sharp\Projeto\Secao06\Exemplos\Exemplo02_Params_Ref\Exemplo02_Params_Ref\obj\Debug\netcoreapp2.1\Exemplo02_Params_Ref.csproj.CoreCompileInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao06\Exemplos\Exemplo02_Params_Ref\Exemplo02_Params_Ref\obj\Debug\netcoreapp2.1\Exemplo02_Params_Ref.AssemblyInfoInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao06\Exemplos\Exemplo02_Params_Ref\Exemplo02_Params_Ref\obj\Debug\netcoreapp2.1\Exemplo02_Params_Ref.AssemblyInfo.cs
+D:\Treinamento\C Sharp\Projeto\Secao06\Exemplos\Exemplo02_Params_Ref\Exemplo02_Params_Ref\bin\Debug\netcoreapp2.1\Exemplo02_Params_Ref.deps.json
+D:\Treinamento\C Sharp\Projeto\Secao06\Exemplos\Exemplo02_Params_Ref\Exemplo02_Params_Ref\bin\Debug\netcoreapp2.1\Exemplo02_Params_Ref.runtimeconfig.json
+D:\Treinamento\C Sharp\Projeto\Secao06\Exemplos\Exemplo02_Params_Ref\Exemplo02_Params_Ref\bin\Debug\netcoreapp2.1\Exemplo02_Params_Ref.runtimeconfig.dev.json
+D:\Treinamento\C Sharp\Projeto\Secao06\Exemplos\Exemplo02_Params_Ref\Exemplo02_Params_Ref\bin\Debug\netcoreapp2.1\Exemplo02_Params_Ref.dll
+D:\Treinamento\C Sharp\Projeto\Secao06\Exemplos\Exemplo02_Params_Ref\Exemplo02_Params_Ref\bin\Debug\netcoreapp2.1\Exemplo02_Params_Ref.pdb
+D:\Treinamento\C Sharp\Projeto\Secao06\Exemplos\Exemplo02_Params_Ref\Exemplo02_Params_Ref\obj\Debug\netcoreapp2.1\Exemplo02_Params_Ref.dll
+D:\Treinamento\C Sharp\Projeto\Secao06\Exemplos\Exemplo02_Params_Ref\Exemplo02_Params_Ref\obj\Debug\netcoreapp2.1\Exemplo02_Params_Ref.pdb

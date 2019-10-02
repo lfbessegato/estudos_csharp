@@ -1,0 +1,11 @@
+D:\Treinamento\C Sharp\Projeto\Secao06\Exemplos\Exemplo01_Structs\Exemplo01_Structs\obj\Debug\netcoreapp2.1\Exemplo01_Structs.csprojAssemblyReference.cache
+D:\Treinamento\C Sharp\Projeto\Secao06\Exemplos\Exemplo01_Structs\Exemplo01_Structs\obj\Debug\netcoreapp2.1\Exemplo01_Structs.csproj.CoreCompileInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao06\Exemplos\Exemplo01_Structs\Exemplo01_Structs\obj\Debug\netcoreapp2.1\Exemplo01_Structs.AssemblyInfoInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao06\Exemplos\Exemplo01_Structs\Exemplo01_Structs\obj\Debug\netcoreapp2.1\Exemplo01_Structs.AssemblyInfo.cs
+D:\Treinamento\C Sharp\Projeto\Secao06\Exemplos\Exemplo01_Structs\Exemplo01_Structs\bin\Debug\netcoreapp2.1\Exemplo01_Structs.deps.json
+D:\Treinamento\C Sharp\Projeto\Secao06\Exemplos\Exemplo01_Structs\Exemplo01_Structs\bin\Debug\netcoreapp2.1\Exemplo01_Structs.runtimeconfig.json
+D:\Treinamento\C Sharp\Projeto\Secao06\Exemplos\Exemplo01_Structs\Exemplo01_Structs\bin\Debug\netcoreapp2.1\Exemplo01_Structs.runtimeconfig.dev.json
+D:\Treinamento\C Sharp\Projeto\Secao06\Exemplos\Exemplo01_Structs\Exemplo01_Structs\bin\Debug\netcoreapp2.1\Exemplo01_Structs.dll
+D:\Treinamento\C Sharp\Projeto\Secao06\Exemplos\Exemplo01_Structs\Exemplo01_Structs\bin\Debug\netcoreapp2.1\Exemplo01_Structs.pdb
+D:\Treinamento\C Sharp\Projeto\Secao06\Exemplos\Exemplo01_Structs\Exemplo01_Structs\obj\Debug\netcoreapp2.1\Exemplo01_Structs.dll
+D:\Treinamento\C Sharp\Projeto\Secao06\Exemplos\Exemplo01_Structs\Exemplo01_Structs\obj\Debug\netcoreapp2.1\Exemplo01_Structs.pdb

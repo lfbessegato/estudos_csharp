@@ -1,0 +1,11 @@
+D:\Treinamento\C Sharp\Projeto\Secao06\Exercicios\Exercicio03_Fixacao_Matrizes\Exercicio03_Fixacao_Matrizes\bin\Debug\netcoreapp2.1\Exercicio03_Fixacao_Matrizes.deps.json
+D:\Treinamento\C Sharp\Projeto\Secao06\Exercicios\Exercicio03_Fixacao_Matrizes\Exercicio03_Fixacao_Matrizes\bin\Debug\netcoreapp2.1\Exercicio03_Fixacao_Matrizes.runtimeconfig.json
+D:\Treinamento\C Sharp\Projeto\Secao06\Exercicios\Exercicio03_Fixacao_Matrizes\Exercicio03_Fixacao_Matrizes\bin\Debug\netcoreapp2.1\Exercicio03_Fixacao_Matrizes.runtimeconfig.dev.json
+D:\Treinamento\C Sharp\Projeto\Secao06\Exercicios\Exercicio03_Fixacao_Matrizes\Exercicio03_Fixacao_Matrizes\bin\Debug\netcoreapp2.1\Exercicio03_Fixacao_Matrizes.dll
+D:\Treinamento\C Sharp\Projeto\Secao06\Exercicios\Exercicio03_Fixacao_Matrizes\Exercicio03_Fixacao_Matrizes\bin\Debug\netcoreapp2.1\Exercicio03_Fixacao_Matrizes.pdb
+D:\Treinamento\C Sharp\Projeto\Secao06\Exercicios\Exercicio03_Fixacao_Matrizes\Exercicio03_Fixacao_Matrizes\obj\Debug\netcoreapp2.1\Exercicio03_Fixacao_Matrizes.csprojAssemblyReference.cache
+D:\Treinamento\C Sharp\Projeto\Secao06\Exercicios\Exercicio03_Fixacao_Matrizes\Exercicio03_Fixacao_Matrizes\obj\Debug\netcoreapp2.1\Exercicio03_Fixacao_Matrizes.csproj.CoreCompileInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao06\Exercicios\Exercicio03_Fixacao_Matrizes\Exercicio03_Fixacao_Matrizes\obj\Debug\netcoreapp2.1\Exercicio03_Fixacao_Matrizes.AssemblyInfoInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao06\Exercicios\Exercicio03_Fixacao_Matrizes\Exercicio03_Fixacao_Matrizes\obj\Debug\netcoreapp2.1\Exercicio03_Fixacao_Matrizes.AssemblyInfo.cs
+D:\Treinamento\C Sharp\Projeto\Secao06\Exercicios\Exercicio03_Fixacao_Matrizes\Exercicio03_Fixacao_Matrizes\obj\Debug\netcoreapp2.1\Exercicio03_Fixacao_Matrizes.dll
+D:\Treinamento\C Sharp\Projeto\Secao06\Exercicios\Exercicio03_Fixacao_Matrizes\Exercicio03_Fixacao_Matrizes\obj\Debug\netcoreapp2.1\Exercicio03_Fixacao_Matrizes.pdb

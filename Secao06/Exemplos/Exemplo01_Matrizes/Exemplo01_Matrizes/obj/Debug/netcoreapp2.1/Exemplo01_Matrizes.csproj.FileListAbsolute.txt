@@ -1,0 +1,11 @@
+D:\Treinamento\C Sharp\Projeto\Secao06\Exercicios\Exemplo01_Matrizes\Exemplo01_Matrizes\bin\Debug\netcoreapp2.1\Exemplo01_Matrizes.deps.json
+D:\Treinamento\C Sharp\Projeto\Secao06\Exercicios\Exemplo01_Matrizes\Exemplo01_Matrizes\bin\Debug\netcoreapp2.1\Exemplo01_Matrizes.runtimeconfig.json
+D:\Treinamento\C Sharp\Projeto\Secao06\Exercicios\Exemplo01_Matrizes\Exemplo01_Matrizes\bin\Debug\netcoreapp2.1\Exemplo01_Matrizes.runtimeconfig.dev.json
+D:\Treinamento\C Sharp\Projeto\Secao06\Exercicios\Exemplo01_Matrizes\Exemplo01_Matrizes\bin\Debug\netcoreapp2.1\Exemplo01_Matrizes.dll
+D:\Treinamento\C Sharp\Projeto\Secao06\Exercicios\Exemplo01_Matrizes\Exemplo01_Matrizes\bin\Debug\netcoreapp2.1\Exemplo01_Matrizes.pdb
+D:\Treinamento\C Sharp\Projeto\Secao06\Exercicios\Exemplo01_Matrizes\Exemplo01_Matrizes\obj\Debug\netcoreapp2.1\Exemplo01_Matrizes.csprojAssemblyReference.cache
+D:\Treinamento\C Sharp\Projeto\Secao06\Exercicios\Exemplo01_Matrizes\Exemplo01_Matrizes\obj\Debug\netcoreapp2.1\Exemplo01_Matrizes.csproj.CoreCompileInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao06\Exercicios\Exemplo01_Matrizes\Exemplo01_Matrizes\obj\Debug\netcoreapp2.1\Exemplo01_Matrizes.AssemblyInfoInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao06\Exercicios\Exemplo01_Matrizes\Exemplo01_Matrizes\obj\Debug\netcoreapp2.1\Exemplo01_Matrizes.AssemblyInfo.cs
+D:\Treinamento\C Sharp\Projeto\Secao06\Exercicios\Exemplo01_Matrizes\Exemplo01_Matrizes\obj\Debug\netcoreapp2.1\Exemplo01_Matrizes.dll
+D:\Treinamento\C Sharp\Projeto\Secao06\Exercicios\Exemplo01_Matrizes\Exemplo01_Matrizes\obj\Debug\netcoreapp2.1\Exemplo01_Matrizes.pdb

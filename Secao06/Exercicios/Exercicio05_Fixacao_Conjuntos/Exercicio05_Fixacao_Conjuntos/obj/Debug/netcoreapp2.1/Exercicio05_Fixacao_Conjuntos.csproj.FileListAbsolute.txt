@@ -1,0 +1,11 @@
+D:\Treinamento\C Sharp\Projeto\Secao06\Exercicios\Exercicio05_Fixacao_Conjuntos\Exercicio05_Fixacao_Conjuntos\bin\Debug\netcoreapp2.1\Exercicio05_Fixacao_Conjuntos.deps.json
+D:\Treinamento\C Sharp\Projeto\Secao06\Exercicios\Exercicio05_Fixacao_Conjuntos\Exercicio05_Fixacao_Conjuntos\bin\Debug\netcoreapp2.1\Exercicio05_Fixacao_Conjuntos.runtimeconfig.json
+D:\Treinamento\C Sharp\Projeto\Secao06\Exercicios\Exercicio05_Fixacao_Conjuntos\Exercicio05_Fixacao_Conjuntos\bin\Debug\netcoreapp2.1\Exercicio05_Fixacao_Conjuntos.runtimeconfig.dev.json
+D:\Treinamento\C Sharp\Projeto\Secao06\Exercicios\Exercicio05_Fixacao_Conjuntos\Exercicio05_Fixacao_Conjuntos\bin\Debug\netcoreapp2.1\Exercicio05_Fixacao_Conjuntos.dll
+D:\Treinamento\C Sharp\Projeto\Secao06\Exercicios\Exercicio05_Fixacao_Conjuntos\Exercicio05_Fixacao_Conjuntos\bin\Debug\netcoreapp2.1\Exercicio05_Fixacao_Conjuntos.pdb
+D:\Treinamento\C Sharp\Projeto\Secao06\Exercicios\Exercicio05_Fixacao_Conjuntos\Exercicio05_Fixacao_Conjuntos\obj\Debug\netcoreapp2.1\Exercicio05_Fixacao_Conjuntos.csprojAssemblyReference.cache
+D:\Treinamento\C Sharp\Projeto\Secao06\Exercicios\Exercicio05_Fixacao_Conjuntos\Exercicio05_Fixacao_Conjuntos\obj\Debug\netcoreapp2.1\Exercicio05_Fixacao_Conjuntos.csproj.CoreCompileInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao06\Exercicios\Exercicio05_Fixacao_Conjuntos\Exercicio05_Fixacao_Conjuntos\obj\Debug\netcoreapp2.1\Exercicio05_Fixacao_Conjuntos.AssemblyInfoInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao06\Exercicios\Exercicio05_Fixacao_Conjuntos\Exercicio05_Fixacao_Conjuntos\obj\Debug\netcoreapp2.1\Exercicio05_Fixacao_Conjuntos.AssemblyInfo.cs
+D:\Treinamento\C Sharp\Projeto\Secao06\Exercicios\Exercicio05_Fixacao_Conjuntos\Exercicio05_Fixacao_Conjuntos\obj\Debug\netcoreapp2.1\Exercicio05_Fixacao_Conjuntos.dll
+D:\Treinamento\C Sharp\Projeto\Secao06\Exercicios\Exercicio05_Fixacao_Conjuntos\Exercicio05_Fixacao_Conjuntos\obj\Debug\netcoreapp2.1\Exercicio05_Fixacao_Conjuntos.pdb

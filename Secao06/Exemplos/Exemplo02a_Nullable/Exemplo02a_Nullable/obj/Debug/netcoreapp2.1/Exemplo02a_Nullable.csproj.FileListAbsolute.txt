@@ -1,0 +1,11 @@
+D:\Treinamento\C Sharp\Projeto\Secao06\Exemplos\Exemplo02a_Nullable\Exemplo02a_Nullable\bin\Debug\netcoreapp2.1\Exemplo02a_Nullable.deps.json
+D:\Treinamento\C Sharp\Projeto\Secao06\Exemplos\Exemplo02a_Nullable\Exemplo02a_Nullable\bin\Debug\netcoreapp2.1\Exemplo02a_Nullable.runtimeconfig.json
+D:\Treinamento\C Sharp\Projeto\Secao06\Exemplos\Exemplo02a_Nullable\Exemplo02a_Nullable\bin\Debug\netcoreapp2.1\Exemplo02a_Nullable.runtimeconfig.dev.json
+D:\Treinamento\C Sharp\Projeto\Secao06\Exemplos\Exemplo02a_Nullable\Exemplo02a_Nullable\bin\Debug\netcoreapp2.1\Exemplo02a_Nullable.dll
+D:\Treinamento\C Sharp\Projeto\Secao06\Exemplos\Exemplo02a_Nullable\Exemplo02a_Nullable\bin\Debug\netcoreapp2.1\Exemplo02a_Nullable.pdb
+D:\Treinamento\C Sharp\Projeto\Secao06\Exemplos\Exemplo02a_Nullable\Exemplo02a_Nullable\obj\Debug\netcoreapp2.1\Exemplo02a_Nullable.csprojAssemblyReference.cache
+D:\Treinamento\C Sharp\Projeto\Secao06\Exemplos\Exemplo02a_Nullable\Exemplo02a_Nullable\obj\Debug\netcoreapp2.1\Exemplo02a_Nullable.csproj.CoreCompileInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao06\Exemplos\Exemplo02a_Nullable\Exemplo02a_Nullable\obj\Debug\netcoreapp2.1\Exemplo02a_Nullable.AssemblyInfoInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao06\Exemplos\Exemplo02a_Nullable\Exemplo02a_Nullable\obj\Debug\netcoreapp2.1\Exemplo02a_Nullable.AssemblyInfo.cs
+D:\Treinamento\C Sharp\Projeto\Secao06\Exemplos\Exemplo02a_Nullable\Exemplo02a_Nullable\obj\Debug\netcoreapp2.1\Exemplo02a_Nullable.dll
+D:\Treinamento\C Sharp\Projeto\Secao06\Exemplos\Exemplo02a_Nullable\Exemplo02a_Nullable\obj\Debug\netcoreapp2.1\Exemplo02a_Nullable.pdb

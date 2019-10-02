@@ -1,0 +1,11 @@
+D:\Treinamento\C Sharp\Projeto\Secao06\Exercicios\Exercici02_Fixacao_Listas\Exercici02_Fixacao_Listas\bin\Debug\netcoreapp2.1\Exercici02_Fixacao_Listas.deps.json
+D:\Treinamento\C Sharp\Projeto\Secao06\Exercicios\Exercici02_Fixacao_Listas\Exercici02_Fixacao_Listas\bin\Debug\netcoreapp2.1\Exercici02_Fixacao_Listas.runtimeconfig.json
+D:\Treinamento\C Sharp\Projeto\Secao06\Exercicios\Exercici02_Fixacao_Listas\Exercici02_Fixacao_Listas\bin\Debug\netcoreapp2.1\Exercici02_Fixacao_Listas.runtimeconfig.dev.json
+D:\Treinamento\C Sharp\Projeto\Secao06\Exercicios\Exercici02_Fixacao_Listas\Exercici02_Fixacao_Listas\bin\Debug\netcoreapp2.1\Exercici02_Fixacao_Listas.dll
+D:\Treinamento\C Sharp\Projeto\Secao06\Exercicios\Exercici02_Fixacao_Listas\Exercici02_Fixacao_Listas\bin\Debug\netcoreapp2.1\Exercici02_Fixacao_Listas.pdb
+D:\Treinamento\C Sharp\Projeto\Secao06\Exercicios\Exercici02_Fixacao_Listas\Exercici02_Fixacao_Listas\obj\Debug\netcoreapp2.1\Exercici02_Fixacao_Listas.csprojAssemblyReference.cache
+D:\Treinamento\C Sharp\Projeto\Secao06\Exercicios\Exercici02_Fixacao_Listas\Exercici02_Fixacao_Listas\obj\Debug\netcoreapp2.1\Exercici02_Fixacao_Listas.csproj.CoreCompileInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao06\Exercicios\Exercici02_Fixacao_Listas\Exercici02_Fixacao_Listas\obj\Debug\netcoreapp2.1\Exercici02_Fixacao_Listas.AssemblyInfoInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao06\Exercicios\Exercici02_Fixacao_Listas\Exercici02_Fixacao_Listas\obj\Debug\netcoreapp2.1\Exercici02_Fixacao_Listas.AssemblyInfo.cs
+D:\Treinamento\C Sharp\Projeto\Secao06\Exercicios\Exercici02_Fixacao_Listas\Exercici02_Fixacao_Listas\obj\Debug\netcoreapp2.1\Exercici02_Fixacao_Listas.dll
+D:\Treinamento\C Sharp\Projeto\Secao06\Exercicios\Exercici02_Fixacao_Listas\Exercici02_Fixacao_Listas\obj\Debug\netcoreapp2.1\Exercici02_Fixacao_Listas.pdb

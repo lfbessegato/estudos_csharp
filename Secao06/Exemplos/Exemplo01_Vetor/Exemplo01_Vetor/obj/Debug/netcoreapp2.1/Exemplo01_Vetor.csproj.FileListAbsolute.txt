@@ -1,0 +1,11 @@
+D:\Treinamento\C Sharp\Projeto\Secao06\Exemplos\Exemplo01_Vetor\Exemplo01_Vetor\bin\Debug\netcoreapp2.1\Exemplo01_Vetor.deps.json
+D:\Treinamento\C Sharp\Projeto\Secao06\Exemplos\Exemplo01_Vetor\Exemplo01_Vetor\bin\Debug\netcoreapp2.1\Exemplo01_Vetor.runtimeconfig.json
+D:\Treinamento\C Sharp\Projeto\Secao06\Exemplos\Exemplo01_Vetor\Exemplo01_Vetor\bin\Debug\netcoreapp2.1\Exemplo01_Vetor.runtimeconfig.dev.json
+D:\Treinamento\C Sharp\Projeto\Secao06\Exemplos\Exemplo01_Vetor\Exemplo01_Vetor\bin\Debug\netcoreapp2.1\Exemplo01_Vetor.dll
+D:\Treinamento\C Sharp\Projeto\Secao06\Exemplos\Exemplo01_Vetor\Exemplo01_Vetor\bin\Debug\netcoreapp2.1\Exemplo01_Vetor.pdb
+D:\Treinamento\C Sharp\Projeto\Secao06\Exemplos\Exemplo01_Vetor\Exemplo01_Vetor\obj\Debug\netcoreapp2.1\Exemplo01_Vetor.csprojAssemblyReference.cache
+D:\Treinamento\C Sharp\Projeto\Secao06\Exemplos\Exemplo01_Vetor\Exemplo01_Vetor\obj\Debug\netcoreapp2.1\Exemplo01_Vetor.csproj.CoreCompileInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao06\Exemplos\Exemplo01_Vetor\Exemplo01_Vetor\obj\Debug\netcoreapp2.1\Exemplo01_Vetor.AssemblyInfoInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao06\Exemplos\Exemplo01_Vetor\Exemplo01_Vetor\obj\Debug\netcoreapp2.1\Exemplo01_Vetor.AssemblyInfo.cs
+D:\Treinamento\C Sharp\Projeto\Secao06\Exemplos\Exemplo01_Vetor\Exemplo01_Vetor\obj\Debug\netcoreapp2.1\Exemplo01_Vetor.dll
+D:\Treinamento\C Sharp\Projeto\Secao06\Exemplos\Exemplo01_Vetor\Exemplo01_Vetor\obj\Debug\netcoreapp2.1\Exemplo01_Vetor.pdb
