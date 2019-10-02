@@ -1,0 +1,11 @@
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo02_Switch-Case\Exemplo02_Switch-Case\bin\Debug\netcoreapp2.1\Exemplo02_Switch-Case.deps.json
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo02_Switch-Case\Exemplo02_Switch-Case\bin\Debug\netcoreapp2.1\Exemplo02_Switch-Case.runtimeconfig.json
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo02_Switch-Case\Exemplo02_Switch-Case\bin\Debug\netcoreapp2.1\Exemplo02_Switch-Case.runtimeconfig.dev.json
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo02_Switch-Case\Exemplo02_Switch-Case\bin\Debug\netcoreapp2.1\Exemplo02_Switch-Case.dll
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo02_Switch-Case\Exemplo02_Switch-Case\bin\Debug\netcoreapp2.1\Exemplo02_Switch-Case.pdb
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo02_Switch-Case\Exemplo02_Switch-Case\obj\Debug\netcoreapp2.1\Exemplo02_Switch-Case.csprojAssemblyReference.cache
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo02_Switch-Case\Exemplo02_Switch-Case\obj\Debug\netcoreapp2.1\Exemplo02_Switch-Case.csproj.CoreCompileInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo02_Switch-Case\Exemplo02_Switch-Case\obj\Debug\netcoreapp2.1\Exemplo02_Switch-Case.AssemblyInfoInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo02_Switch-Case\Exemplo02_Switch-Case\obj\Debug\netcoreapp2.1\Exemplo02_Switch-Case.AssemblyInfo.cs
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo02_Switch-Case\Exemplo02_Switch-Case\obj\Debug\netcoreapp2.1\Exemplo02_Switch-Case.dll
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo02_Switch-Case\Exemplo02_Switch-Case\obj\Debug\netcoreapp2.1\Exemplo02_Switch-Case.pdb

@@ -1,0 +1,11 @@
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo07_Formatacao_DateTime\Exemplo07_Formatacao_DateTime\bin\Debug\netcoreapp2.1\Exemplo07_Formatacao_DateTime.deps.json
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo07_Formatacao_DateTime\Exemplo07_Formatacao_DateTime\bin\Debug\netcoreapp2.1\Exemplo07_Formatacao_DateTime.runtimeconfig.json
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo07_Formatacao_DateTime\Exemplo07_Formatacao_DateTime\bin\Debug\netcoreapp2.1\Exemplo07_Formatacao_DateTime.runtimeconfig.dev.json
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo07_Formatacao_DateTime\Exemplo07_Formatacao_DateTime\bin\Debug\netcoreapp2.1\Exemplo07_Formatacao_DateTime.dll
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo07_Formatacao_DateTime\Exemplo07_Formatacao_DateTime\bin\Debug\netcoreapp2.1\Exemplo07_Formatacao_DateTime.pdb
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo07_Formatacao_DateTime\Exemplo07_Formatacao_DateTime\obj\Debug\netcoreapp2.1\Exemplo07_Formatacao_DateTime.csprojAssemblyReference.cache
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo07_Formatacao_DateTime\Exemplo07_Formatacao_DateTime\obj\Debug\netcoreapp2.1\Exemplo07_Formatacao_DateTime.csproj.CoreCompileInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo07_Formatacao_DateTime\Exemplo07_Formatacao_DateTime\obj\Debug\netcoreapp2.1\Exemplo07_Formatacao_DateTime.AssemblyInfoInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo07_Formatacao_DateTime\Exemplo07_Formatacao_DateTime\obj\Debug\netcoreapp2.1\Exemplo07_Formatacao_DateTime.AssemblyInfo.cs
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo07_Formatacao_DateTime\Exemplo07_Formatacao_DateTime\obj\Debug\netcoreapp2.1\Exemplo07_Formatacao_DateTime.dll
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo07_Formatacao_DateTime\Exemplo07_Formatacao_DateTime\obj\Debug\netcoreapp2.1\Exemplo07_Formatacao_DateTime.pdb

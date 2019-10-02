@@ -1,0 +1,11 @@
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo06_Funcoes_TimeSpan\Exemplo06_Funcoes_TimeSpan\bin\Debug\netcoreapp2.1\Exemplo06_Funcoes_TimeSpan.deps.json
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo06_Funcoes_TimeSpan\Exemplo06_Funcoes_TimeSpan\bin\Debug\netcoreapp2.1\Exemplo06_Funcoes_TimeSpan.runtimeconfig.json
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo06_Funcoes_TimeSpan\Exemplo06_Funcoes_TimeSpan\bin\Debug\netcoreapp2.1\Exemplo06_Funcoes_TimeSpan.runtimeconfig.dev.json
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo06_Funcoes_TimeSpan\Exemplo06_Funcoes_TimeSpan\bin\Debug\netcoreapp2.1\Exemplo06_Funcoes_TimeSpan.dll
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo06_Funcoes_TimeSpan\Exemplo06_Funcoes_TimeSpan\bin\Debug\netcoreapp2.1\Exemplo06_Funcoes_TimeSpan.pdb
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo06_Funcoes_TimeSpan\Exemplo06_Funcoes_TimeSpan\obj\Debug\netcoreapp2.1\Exemplo06_Funcoes_TimeSpan.csprojAssemblyReference.cache
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo06_Funcoes_TimeSpan\Exemplo06_Funcoes_TimeSpan\obj\Debug\netcoreapp2.1\Exemplo06_Funcoes_TimeSpan.csproj.CoreCompileInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo06_Funcoes_TimeSpan\Exemplo06_Funcoes_TimeSpan\obj\Debug\netcoreapp2.1\Exemplo06_Funcoes_TimeSpan.AssemblyInfoInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo06_Funcoes_TimeSpan\Exemplo06_Funcoes_TimeSpan\obj\Debug\netcoreapp2.1\Exemplo06_Funcoes_TimeSpan.AssemblyInfo.cs
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo06_Funcoes_TimeSpan\Exemplo06_Funcoes_TimeSpan\obj\Debug\netcoreapp2.1\Exemplo06_Funcoes_TimeSpan.dll
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo06_Funcoes_TimeSpan\Exemplo06_Funcoes_TimeSpan\obj\Debug\netcoreapp2.1\Exemplo06_Funcoes_TimeSpan.pdb

@@ -1,0 +1,11 @@
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo04_Funcoes_Strings\Exemplo04_Funcoes_Strings\bin\Debug\netcoreapp2.1\Exemplo04_Funcoes_Strings.deps.json
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo04_Funcoes_Strings\Exemplo04_Funcoes_Strings\bin\Debug\netcoreapp2.1\Exemplo04_Funcoes_Strings.runtimeconfig.json
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo04_Funcoes_Strings\Exemplo04_Funcoes_Strings\bin\Debug\netcoreapp2.1\Exemplo04_Funcoes_Strings.runtimeconfig.dev.json
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo04_Funcoes_Strings\Exemplo04_Funcoes_Strings\bin\Debug\netcoreapp2.1\Exemplo04_Funcoes_Strings.dll
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo04_Funcoes_Strings\Exemplo04_Funcoes_Strings\bin\Debug\netcoreapp2.1\Exemplo04_Funcoes_Strings.pdb
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo04_Funcoes_Strings\Exemplo04_Funcoes_Strings\obj\Debug\netcoreapp2.1\Exemplo04_Funcoes_Strings.csprojAssemblyReference.cache
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo04_Funcoes_Strings\Exemplo04_Funcoes_Strings\obj\Debug\netcoreapp2.1\Exemplo04_Funcoes_Strings.csproj.CoreCompileInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo04_Funcoes_Strings\Exemplo04_Funcoes_Strings\obj\Debug\netcoreapp2.1\Exemplo04_Funcoes_Strings.AssemblyInfoInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo04_Funcoes_Strings\Exemplo04_Funcoes_Strings\obj\Debug\netcoreapp2.1\Exemplo04_Funcoes_Strings.AssemblyInfo.cs
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo04_Funcoes_Strings\Exemplo04_Funcoes_Strings\obj\Debug\netcoreapp2.1\Exemplo04_Funcoes_Strings.dll
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo04_Funcoes_Strings\Exemplo04_Funcoes_Strings\obj\Debug\netcoreapp2.1\Exemplo04_Funcoes_Strings.pdb

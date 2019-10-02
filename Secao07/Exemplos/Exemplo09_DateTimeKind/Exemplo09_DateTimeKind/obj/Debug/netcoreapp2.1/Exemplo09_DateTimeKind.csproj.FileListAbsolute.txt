@@ -1,0 +1,11 @@
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo09_DateTimeKind\Exemplo09_DateTimeKind\obj\Debug\netcoreapp2.1\Exemplo09_DateTimeKind.csprojAssemblyReference.cache
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo09_DateTimeKind\Exemplo09_DateTimeKind\obj\Debug\netcoreapp2.1\Exemplo09_DateTimeKind.csproj.CoreCompileInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo09_DateTimeKind\Exemplo09_DateTimeKind\obj\Debug\netcoreapp2.1\Exemplo09_DateTimeKind.AssemblyInfoInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo09_DateTimeKind\Exemplo09_DateTimeKind\obj\Debug\netcoreapp2.1\Exemplo09_DateTimeKind.AssemblyInfo.cs
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo09_DateTimeKind\Exemplo09_DateTimeKind\bin\Debug\netcoreapp2.1\Exemplo09_DateTimeKind.deps.json
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo09_DateTimeKind\Exemplo09_DateTimeKind\bin\Debug\netcoreapp2.1\Exemplo09_DateTimeKind.runtimeconfig.json
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo09_DateTimeKind\Exemplo09_DateTimeKind\bin\Debug\netcoreapp2.1\Exemplo09_DateTimeKind.runtimeconfig.dev.json
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo09_DateTimeKind\Exemplo09_DateTimeKind\bin\Debug\netcoreapp2.1\Exemplo09_DateTimeKind.dll
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo09_DateTimeKind\Exemplo09_DateTimeKind\bin\Debug\netcoreapp2.1\Exemplo09_DateTimeKind.pdb
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo09_DateTimeKind\Exemplo09_DateTimeKind\obj\Debug\netcoreapp2.1\Exemplo09_DateTimeKind.dll
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo09_DateTimeKind\Exemplo09_DateTimeKind\obj\Debug\netcoreapp2.1\Exemplo09_DateTimeKind.pdb

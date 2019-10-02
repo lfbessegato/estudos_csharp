@@ -1,0 +1,11 @@
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo03_Ternaria\Exemplo03_Ternaria\bin\Debug\netcoreapp2.1\Exemplo03_Ternaria.deps.json
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo03_Ternaria\Exemplo03_Ternaria\bin\Debug\netcoreapp2.1\Exemplo03_Ternaria.runtimeconfig.json
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo03_Ternaria\Exemplo03_Ternaria\bin\Debug\netcoreapp2.1\Exemplo03_Ternaria.runtimeconfig.dev.json
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo03_Ternaria\Exemplo03_Ternaria\bin\Debug\netcoreapp2.1\Exemplo03_Ternaria.dll
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo03_Ternaria\Exemplo03_Ternaria\bin\Debug\netcoreapp2.1\Exemplo03_Ternaria.pdb
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo03_Ternaria\Exemplo03_Ternaria\obj\Debug\netcoreapp2.1\Exemplo03_Ternaria.csprojAssemblyReference.cache
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo03_Ternaria\Exemplo03_Ternaria\obj\Debug\netcoreapp2.1\Exemplo03_Ternaria.csproj.CoreCompileInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo03_Ternaria\Exemplo03_Ternaria\obj\Debug\netcoreapp2.1\Exemplo03_Ternaria.AssemblyInfoInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo03_Ternaria\Exemplo03_Ternaria\obj\Debug\netcoreapp2.1\Exemplo03_Ternaria.AssemblyInfo.cs
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo03_Ternaria\Exemplo03_Ternaria\obj\Debug\netcoreapp2.1\Exemplo03_Ternaria.dll
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo03_Ternaria\Exemplo03_Ternaria\obj\Debug\netcoreapp2.1\Exemplo03_Ternaria.pdb

@@ -1,0 +1,11 @@
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo09_Padrao_ISO8601\Exemplo09_Padrao_ISO8601\bin\Debug\netcoreapp2.1\Exemplo09_Padrao_ISO8601.deps.json
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo09_Padrao_ISO8601\Exemplo09_Padrao_ISO8601\bin\Debug\netcoreapp2.1\Exemplo09_Padrao_ISO8601.runtimeconfig.json
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo09_Padrao_ISO8601\Exemplo09_Padrao_ISO8601\bin\Debug\netcoreapp2.1\Exemplo09_Padrao_ISO8601.runtimeconfig.dev.json
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo09_Padrao_ISO8601\Exemplo09_Padrao_ISO8601\bin\Debug\netcoreapp2.1\Exemplo09_Padrao_ISO8601.dll
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo09_Padrao_ISO8601\Exemplo09_Padrao_ISO8601\bin\Debug\netcoreapp2.1\Exemplo09_Padrao_ISO8601.pdb
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo09_Padrao_ISO8601\Exemplo09_Padrao_ISO8601\obj\Debug\netcoreapp2.1\Exemplo09_Padrao_ISO8601.csprojAssemblyReference.cache
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo09_Padrao_ISO8601\Exemplo09_Padrao_ISO8601\obj\Debug\netcoreapp2.1\Exemplo09_Padrao_ISO8601.csproj.CoreCompileInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo09_Padrao_ISO8601\Exemplo09_Padrao_ISO8601\obj\Debug\netcoreapp2.1\Exemplo09_Padrao_ISO8601.AssemblyInfoInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo09_Padrao_ISO8601\Exemplo09_Padrao_ISO8601\obj\Debug\netcoreapp2.1\Exemplo09_Padrao_ISO8601.AssemblyInfo.cs
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo09_Padrao_ISO8601\Exemplo09_Padrao_ISO8601\obj\Debug\netcoreapp2.1\Exemplo09_Padrao_ISO8601.dll
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo09_Padrao_ISO8601\Exemplo09_Padrao_ISO8601\obj\Debug\netcoreapp2.1\Exemplo09_Padrao_ISO8601.pdb

@@ -1,0 +1,11 @@
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo08_TimeSpan_Propriedades\Exemplo08_TimeSpan_Propriedades\bin\Debug\netcoreapp2.1\Exemplo08_TimeSpan_Propriedades.deps.json
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo08_TimeSpan_Propriedades\Exemplo08_TimeSpan_Propriedades\bin\Debug\netcoreapp2.1\Exemplo08_TimeSpan_Propriedades.runtimeconfig.json
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo08_TimeSpan_Propriedades\Exemplo08_TimeSpan_Propriedades\bin\Debug\netcoreapp2.1\Exemplo08_TimeSpan_Propriedades.runtimeconfig.dev.json
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo08_TimeSpan_Propriedades\Exemplo08_TimeSpan_Propriedades\bin\Debug\netcoreapp2.1\Exemplo08_TimeSpan_Propriedades.dll
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo08_TimeSpan_Propriedades\Exemplo08_TimeSpan_Propriedades\bin\Debug\netcoreapp2.1\Exemplo08_TimeSpan_Propriedades.pdb
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo08_TimeSpan_Propriedades\Exemplo08_TimeSpan_Propriedades\obj\Debug\netcoreapp2.1\Exemplo08_TimeSpan_Propriedades.csprojAssemblyReference.cache
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo08_TimeSpan_Propriedades\Exemplo08_TimeSpan_Propriedades\obj\Debug\netcoreapp2.1\Exemplo08_TimeSpan_Propriedades.csproj.CoreCompileInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo08_TimeSpan_Propriedades\Exemplo08_TimeSpan_Propriedades\obj\Debug\netcoreapp2.1\Exemplo08_TimeSpan_Propriedades.AssemblyInfoInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo08_TimeSpan_Propriedades\Exemplo08_TimeSpan_Propriedades\obj\Debug\netcoreapp2.1\Exemplo08_TimeSpan_Propriedades.AssemblyInfo.cs
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo08_TimeSpan_Propriedades\Exemplo08_TimeSpan_Propriedades\obj\Debug\netcoreapp2.1\Exemplo08_TimeSpan_Propriedades.dll
+D:\Treinamento\C Sharp\Projeto\Secao07\Exemplos\Exemplo08_TimeSpan_Propriedades\Exemplo08_TimeSpan_Propriedades\obj\Debug\netcoreapp2.1\Exemplo08_TimeSpan_Propriedades.pdb
