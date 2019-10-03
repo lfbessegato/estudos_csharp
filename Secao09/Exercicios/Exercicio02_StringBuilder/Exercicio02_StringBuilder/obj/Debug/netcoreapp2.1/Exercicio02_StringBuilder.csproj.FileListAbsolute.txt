@@ -1,0 +1,11 @@
+D:\Treinamento\C Sharp\Projeto\Secao09\Exercicios\Exercicio02_StringBuilder\Exercicio02_StringBuilder\bin\Debug\netcoreapp2.1\Exercicio02_StringBuilder.deps.json
+D:\Treinamento\C Sharp\Projeto\Secao09\Exercicios\Exercicio02_StringBuilder\Exercicio02_StringBuilder\bin\Debug\netcoreapp2.1\Exercicio02_StringBuilder.runtimeconfig.json
+D:\Treinamento\C Sharp\Projeto\Secao09\Exercicios\Exercicio02_StringBuilder\Exercicio02_StringBuilder\bin\Debug\netcoreapp2.1\Exercicio02_StringBuilder.runtimeconfig.dev.json
+D:\Treinamento\C Sharp\Projeto\Secao09\Exercicios\Exercicio02_StringBuilder\Exercicio02_StringBuilder\bin\Debug\netcoreapp2.1\Exercicio02_StringBuilder.dll
+D:\Treinamento\C Sharp\Projeto\Secao09\Exercicios\Exercicio02_StringBuilder\Exercicio02_StringBuilder\bin\Debug\netcoreapp2.1\Exercicio02_StringBuilder.pdb
+D:\Treinamento\C Sharp\Projeto\Secao09\Exercicios\Exercicio02_StringBuilder\Exercicio02_StringBuilder\obj\Debug\netcoreapp2.1\Exercicio02_StringBuilder.csprojAssemblyReference.cache
+D:\Treinamento\C Sharp\Projeto\Secao09\Exercicios\Exercicio02_StringBuilder\Exercicio02_StringBuilder\obj\Debug\netcoreapp2.1\Exercicio02_StringBuilder.csproj.CoreCompileInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao09\Exercicios\Exercicio02_StringBuilder\Exercicio02_StringBuilder\obj\Debug\netcoreapp2.1\Exercicio02_StringBuilder.AssemblyInfoInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao09\Exercicios\Exercicio02_StringBuilder\Exercicio02_StringBuilder\obj\Debug\netcoreapp2.1\Exercicio02_StringBuilder.AssemblyInfo.cs
+D:\Treinamento\C Sharp\Projeto\Secao09\Exercicios\Exercicio02_StringBuilder\Exercicio02_StringBuilder\obj\Debug\netcoreapp2.1\Exercicio02_StringBuilder.dll
+D:\Treinamento\C Sharp\Projeto\Secao09\Exercicios\Exercicio02_StringBuilder\Exercicio02_StringBuilder\obj\Debug\netcoreapp2.1\Exercicio02_StringBuilder.pdb

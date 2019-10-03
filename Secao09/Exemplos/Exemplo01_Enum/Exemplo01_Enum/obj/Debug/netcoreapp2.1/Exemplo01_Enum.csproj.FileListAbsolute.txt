@@ -1,0 +1,11 @@
+D:\Treinamento\C Sharp\Projeto\Secao09\Exemplos\Exemplo01_Enum\Exemplo01_Enum\bin\Debug\netcoreapp2.1\Exemplo01_Enum.deps.json
+D:\Treinamento\C Sharp\Projeto\Secao09\Exemplos\Exemplo01_Enum\Exemplo01_Enum\bin\Debug\netcoreapp2.1\Exemplo01_Enum.runtimeconfig.json
+D:\Treinamento\C Sharp\Projeto\Secao09\Exemplos\Exemplo01_Enum\Exemplo01_Enum\bin\Debug\netcoreapp2.1\Exemplo01_Enum.runtimeconfig.dev.json
+D:\Treinamento\C Sharp\Projeto\Secao09\Exemplos\Exemplo01_Enum\Exemplo01_Enum\bin\Debug\netcoreapp2.1\Exemplo01_Enum.dll
+D:\Treinamento\C Sharp\Projeto\Secao09\Exemplos\Exemplo01_Enum\Exemplo01_Enum\bin\Debug\netcoreapp2.1\Exemplo01_Enum.pdb
+D:\Treinamento\C Sharp\Projeto\Secao09\Exemplos\Exemplo01_Enum\Exemplo01_Enum\obj\Debug\netcoreapp2.1\Exemplo01_Enum.csprojAssemblyReference.cache
+D:\Treinamento\C Sharp\Projeto\Secao09\Exemplos\Exemplo01_Enum\Exemplo01_Enum\obj\Debug\netcoreapp2.1\Exemplo01_Enum.csproj.CoreCompileInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao09\Exemplos\Exemplo01_Enum\Exemplo01_Enum\obj\Debug\netcoreapp2.1\Exemplo01_Enum.AssemblyInfoInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao09\Exemplos\Exemplo01_Enum\Exemplo01_Enum\obj\Debug\netcoreapp2.1\Exemplo01_Enum.AssemblyInfo.cs
+D:\Treinamento\C Sharp\Projeto\Secao09\Exemplos\Exemplo01_Enum\Exemplo01_Enum\obj\Debug\netcoreapp2.1\Exemplo01_Enum.dll
+D:\Treinamento\C Sharp\Projeto\Secao09\Exemplos\Exemplo01_Enum\Exemplo01_Enum\obj\Debug\netcoreapp2.1\Exemplo01_Enum.pdb
