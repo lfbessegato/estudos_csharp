@@ -1,0 +1,11 @@
+D:\Treinamento\C Sharp\Projeto\Secao10\Exemplos\Exemplo01_Heranca\Exemplo01_Heranca\bin\Debug\netcoreapp2.1\Exemplo01_Heranca.deps.json
+D:\Treinamento\C Sharp\Projeto\Secao10\Exemplos\Exemplo01_Heranca\Exemplo01_Heranca\bin\Debug\netcoreapp2.1\Exemplo01_Heranca.runtimeconfig.json
+D:\Treinamento\C Sharp\Projeto\Secao10\Exemplos\Exemplo01_Heranca\Exemplo01_Heranca\bin\Debug\netcoreapp2.1\Exemplo01_Heranca.runtimeconfig.dev.json
+D:\Treinamento\C Sharp\Projeto\Secao10\Exemplos\Exemplo01_Heranca\Exemplo01_Heranca\bin\Debug\netcoreapp2.1\Exemplo01_Heranca.dll
+D:\Treinamento\C Sharp\Projeto\Secao10\Exemplos\Exemplo01_Heranca\Exemplo01_Heranca\bin\Debug\netcoreapp2.1\Exemplo01_Heranca.pdb
+D:\Treinamento\C Sharp\Projeto\Secao10\Exemplos\Exemplo01_Heranca\Exemplo01_Heranca\obj\Debug\netcoreapp2.1\Exemplo01_Heranca.csprojAssemblyReference.cache
+D:\Treinamento\C Sharp\Projeto\Secao10\Exemplos\Exemplo01_Heranca\Exemplo01_Heranca\obj\Debug\netcoreapp2.1\Exemplo01_Heranca.csproj.CoreCompileInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao10\Exemplos\Exemplo01_Heranca\Exemplo01_Heranca\obj\Debug\netcoreapp2.1\Exemplo01_Heranca.AssemblyInfoInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao10\Exemplos\Exemplo01_Heranca\Exemplo01_Heranca\obj\Debug\netcoreapp2.1\Exemplo01_Heranca.AssemblyInfo.cs
+D:\Treinamento\C Sharp\Projeto\Secao10\Exemplos\Exemplo01_Heranca\Exemplo01_Heranca\obj\Debug\netcoreapp2.1\Exemplo01_Heranca.dll
+D:\Treinamento\C Sharp\Projeto\Secao10\Exemplos\Exemplo01_Heranca\Exemplo01_Heranca\obj\Debug\netcoreapp2.1\Exemplo01_Heranca.pdb

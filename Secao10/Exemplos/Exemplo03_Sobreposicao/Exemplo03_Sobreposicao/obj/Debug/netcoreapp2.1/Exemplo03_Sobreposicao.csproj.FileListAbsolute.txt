@@ -1,0 +1,11 @@
+D:\Treinamento\C Sharp\Projeto\Secao10\Exemplos\Exemplo03_Sobreposicao\Exemplo03_Sobreposicao\bin\Debug\netcoreapp2.1\Exemplo03_Sobreposicao.deps.json
+D:\Treinamento\C Sharp\Projeto\Secao10\Exemplos\Exemplo03_Sobreposicao\Exemplo03_Sobreposicao\bin\Debug\netcoreapp2.1\Exemplo03_Sobreposicao.runtimeconfig.json
+D:\Treinamento\C Sharp\Projeto\Secao10\Exemplos\Exemplo03_Sobreposicao\Exemplo03_Sobreposicao\bin\Debug\netcoreapp2.1\Exemplo03_Sobreposicao.runtimeconfig.dev.json
+D:\Treinamento\C Sharp\Projeto\Secao10\Exemplos\Exemplo03_Sobreposicao\Exemplo03_Sobreposicao\bin\Debug\netcoreapp2.1\Exemplo03_Sobreposicao.dll
+D:\Treinamento\C Sharp\Projeto\Secao10\Exemplos\Exemplo03_Sobreposicao\Exemplo03_Sobreposicao\bin\Debug\netcoreapp2.1\Exemplo03_Sobreposicao.pdb
+D:\Treinamento\C Sharp\Projeto\Secao10\Exemplos\Exemplo03_Sobreposicao\Exemplo03_Sobreposicao\obj\Debug\netcoreapp2.1\Exemplo03_Sobreposicao.csprojAssemblyReference.cache
+D:\Treinamento\C Sharp\Projeto\Secao10\Exemplos\Exemplo03_Sobreposicao\Exemplo03_Sobreposicao\obj\Debug\netcoreapp2.1\Exemplo03_Sobreposicao.csproj.CoreCompileInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao10\Exemplos\Exemplo03_Sobreposicao\Exemplo03_Sobreposicao\obj\Debug\netcoreapp2.1\Exemplo03_Sobreposicao.AssemblyInfoInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao10\Exemplos\Exemplo03_Sobreposicao\Exemplo03_Sobreposicao\obj\Debug\netcoreapp2.1\Exemplo03_Sobreposicao.AssemblyInfo.cs
+D:\Treinamento\C Sharp\Projeto\Secao10\Exemplos\Exemplo03_Sobreposicao\Exemplo03_Sobreposicao\obj\Debug\netcoreapp2.1\Exemplo03_Sobreposicao.dll
+D:\Treinamento\C Sharp\Projeto\Secao10\Exemplos\Exemplo03_Sobreposicao\Exemplo03_Sobreposicao\obj\Debug\netcoreapp2.1\Exemplo03_Sobreposicao.pdb

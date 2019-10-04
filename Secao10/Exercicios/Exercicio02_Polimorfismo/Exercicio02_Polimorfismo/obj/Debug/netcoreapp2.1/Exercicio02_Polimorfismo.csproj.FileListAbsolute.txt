@@ -1,0 +1,11 @@
+D:\Treinamento\C Sharp\Projeto\Secao10\Exercicios\Exercicio02_Polimorfismo\Exercicio02_Polimorfismo\obj\Debug\netcoreapp2.1\Exercicio02_Polimorfismo.csprojAssemblyReference.cache
+D:\Treinamento\C Sharp\Projeto\Secao10\Exercicios\Exercicio02_Polimorfismo\Exercicio02_Polimorfismo\obj\Debug\netcoreapp2.1\Exercicio02_Polimorfismo.csproj.CoreCompileInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao10\Exercicios\Exercicio02_Polimorfismo\Exercicio02_Polimorfismo\obj\Debug\netcoreapp2.1\Exercicio02_Polimorfismo.AssemblyInfoInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao10\Exercicios\Exercicio02_Polimorfismo\Exercicio02_Polimorfismo\obj\Debug\netcoreapp2.1\Exercicio02_Polimorfismo.AssemblyInfo.cs
+D:\Treinamento\C Sharp\Projeto\Secao10\Exercicios\Exercicio02_Polimorfismo\Exercicio02_Polimorfismo\bin\Debug\netcoreapp2.1\Exercicio02_Polimorfismo.deps.json
+D:\Treinamento\C Sharp\Projeto\Secao10\Exercicios\Exercicio02_Polimorfismo\Exercicio02_Polimorfismo\bin\Debug\netcoreapp2.1\Exercicio02_Polimorfismo.runtimeconfig.json
+D:\Treinamento\C Sharp\Projeto\Secao10\Exercicios\Exercicio02_Polimorfismo\Exercicio02_Polimorfismo\bin\Debug\netcoreapp2.1\Exercicio02_Polimorfismo.runtimeconfig.dev.json
+D:\Treinamento\C Sharp\Projeto\Secao10\Exercicios\Exercicio02_Polimorfismo\Exercicio02_Polimorfismo\bin\Debug\netcoreapp2.1\Exercicio02_Polimorfismo.dll
+D:\Treinamento\C Sharp\Projeto\Secao10\Exercicios\Exercicio02_Polimorfismo\Exercicio02_Polimorfismo\bin\Debug\netcoreapp2.1\Exercicio02_Polimorfismo.pdb
+D:\Treinamento\C Sharp\Projeto\Secao10\Exercicios\Exercicio02_Polimorfismo\Exercicio02_Polimorfismo\obj\Debug\netcoreapp2.1\Exercicio02_Polimorfismo.dll
+D:\Treinamento\C Sharp\Projeto\Secao10\Exercicios\Exercicio02_Polimorfismo\Exercicio02_Polimorfismo\obj\Debug\netcoreapp2.1\Exercicio02_Polimorfismo.pdb

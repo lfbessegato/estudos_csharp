@@ -1,0 +1,11 @@
+D:\Treinamento\C Sharp\Projeto\Secao10\Exemplos\Exemplo05_Classes_Abstratas\Exemplo05_Classes_Abstratas\obj\Debug\netcoreapp2.1\Exemplo05_Classes_Abstratas.csprojAssemblyReference.cache
+D:\Treinamento\C Sharp\Projeto\Secao10\Exemplos\Exemplo05_Classes_Abstratas\Exemplo05_Classes_Abstratas\obj\Debug\netcoreapp2.1\Exemplo05_Classes_Abstratas.csproj.CoreCompileInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao10\Exemplos\Exemplo05_Classes_Abstratas\Exemplo05_Classes_Abstratas\obj\Debug\netcoreapp2.1\Exemplo05_Classes_Abstratas.AssemblyInfoInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao10\Exemplos\Exemplo05_Classes_Abstratas\Exemplo05_Classes_Abstratas\obj\Debug\netcoreapp2.1\Exemplo05_Classes_Abstratas.AssemblyInfo.cs
+D:\Treinamento\C Sharp\Projeto\Secao10\Exemplos\Exemplo05_Classes_Abstratas\Exemplo05_Classes_Abstratas\bin\Debug\netcoreapp2.1\Exemplo05_Classes_Abstratas.deps.json
+D:\Treinamento\C Sharp\Projeto\Secao10\Exemplos\Exemplo05_Classes_Abstratas\Exemplo05_Classes_Abstratas\bin\Debug\netcoreapp2.1\Exemplo05_Classes_Abstratas.runtimeconfig.json
+D:\Treinamento\C Sharp\Projeto\Secao10\Exemplos\Exemplo05_Classes_Abstratas\Exemplo05_Classes_Abstratas\bin\Debug\netcoreapp2.1\Exemplo05_Classes_Abstratas.runtimeconfig.dev.json
+D:\Treinamento\C Sharp\Projeto\Secao10\Exemplos\Exemplo05_Classes_Abstratas\Exemplo05_Classes_Abstratas\bin\Debug\netcoreapp2.1\Exemplo05_Classes_Abstratas.dll
+D:\Treinamento\C Sharp\Projeto\Secao10\Exemplos\Exemplo05_Classes_Abstratas\Exemplo05_Classes_Abstratas\bin\Debug\netcoreapp2.1\Exemplo05_Classes_Abstratas.pdb
+D:\Treinamento\C Sharp\Projeto\Secao10\Exemplos\Exemplo05_Classes_Abstratas\Exemplo05_Classes_Abstratas\obj\Debug\netcoreapp2.1\Exemplo05_Classes_Abstratas.dll
+D:\Treinamento\C Sharp\Projeto\Secao10\Exemplos\Exemplo05_Classes_Abstratas\Exemplo05_Classes_Abstratas\obj\Debug\netcoreapp2.1\Exemplo05_Classes_Abstratas.pdb

@@ -1,0 +1,11 @@
+D:\Treinamento\C Sharp\Projeto\Secao10\Exemplos\Exemplo02_Upcasting_DownCasting\Exemplo02_Upcasting_DownCasting\bin\Debug\netcoreapp2.1\Exemplo02_Upcasting_DownCasting.deps.json
+D:\Treinamento\C Sharp\Projeto\Secao10\Exemplos\Exemplo02_Upcasting_DownCasting\Exemplo02_Upcasting_DownCasting\bin\Debug\netcoreapp2.1\Exemplo02_Upcasting_DownCasting.runtimeconfig.json
+D:\Treinamento\C Sharp\Projeto\Secao10\Exemplos\Exemplo02_Upcasting_DownCasting\Exemplo02_Upcasting_DownCasting\bin\Debug\netcoreapp2.1\Exemplo02_Upcasting_DownCasting.runtimeconfig.dev.json
+D:\Treinamento\C Sharp\Projeto\Secao10\Exemplos\Exemplo02_Upcasting_DownCasting\Exemplo02_Upcasting_DownCasting\bin\Debug\netcoreapp2.1\Exemplo02_Upcasting_DownCasting.dll
+D:\Treinamento\C Sharp\Projeto\Secao10\Exemplos\Exemplo02_Upcasting_DownCasting\Exemplo02_Upcasting_DownCasting\bin\Debug\netcoreapp2.1\Exemplo02_Upcasting_DownCasting.pdb
+D:\Treinamento\C Sharp\Projeto\Secao10\Exemplos\Exemplo02_Upcasting_DownCasting\Exemplo02_Upcasting_DownCasting\obj\Debug\netcoreapp2.1\Exemplo02_Upcasting_DownCasting.csprojAssemblyReference.cache
+D:\Treinamento\C Sharp\Projeto\Secao10\Exemplos\Exemplo02_Upcasting_DownCasting\Exemplo02_Upcasting_DownCasting\obj\Debug\netcoreapp2.1\Exemplo02_Upcasting_DownCasting.csproj.CoreCompileInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao10\Exemplos\Exemplo02_Upcasting_DownCasting\Exemplo02_Upcasting_DownCasting\obj\Debug\netcoreapp2.1\Exemplo02_Upcasting_DownCasting.AssemblyInfoInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao10\Exemplos\Exemplo02_Upcasting_DownCasting\Exemplo02_Upcasting_DownCasting\obj\Debug\netcoreapp2.1\Exemplo02_Upcasting_DownCasting.AssemblyInfo.cs
+D:\Treinamento\C Sharp\Projeto\Secao10\Exemplos\Exemplo02_Upcasting_DownCasting\Exemplo02_Upcasting_DownCasting\obj\Debug\netcoreapp2.1\Exemplo02_Upcasting_DownCasting.dll
+D:\Treinamento\C Sharp\Projeto\Secao10\Exemplos\Exemplo02_Upcasting_DownCasting\Exemplo02_Upcasting_DownCasting\obj\Debug\netcoreapp2.1\Exemplo02_Upcasting_DownCasting.pdb
