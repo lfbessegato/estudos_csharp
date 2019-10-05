@@ -1,0 +1,11 @@
+D:\Treinamento\C Sharp\Projeto\Secao11\Exemplos\Exemplo03_Erros_Personalizados\Exemplo03_Erros_Personalizados\bin\Debug\netcoreapp2.1\Exemplo03_Erros_Personalizados.deps.json
+D:\Treinamento\C Sharp\Projeto\Secao11\Exemplos\Exemplo03_Erros_Personalizados\Exemplo03_Erros_Personalizados\bin\Debug\netcoreapp2.1\Exemplo03_Erros_Personalizados.runtimeconfig.json
+D:\Treinamento\C Sharp\Projeto\Secao11\Exemplos\Exemplo03_Erros_Personalizados\Exemplo03_Erros_Personalizados\bin\Debug\netcoreapp2.1\Exemplo03_Erros_Personalizados.runtimeconfig.dev.json
+D:\Treinamento\C Sharp\Projeto\Secao11\Exemplos\Exemplo03_Erros_Personalizados\Exemplo03_Erros_Personalizados\bin\Debug\netcoreapp2.1\Exemplo03_Erros_Personalizados.dll
+D:\Treinamento\C Sharp\Projeto\Secao11\Exemplos\Exemplo03_Erros_Personalizados\Exemplo03_Erros_Personalizados\bin\Debug\netcoreapp2.1\Exemplo03_Erros_Personalizados.pdb
+D:\Treinamento\C Sharp\Projeto\Secao11\Exemplos\Exemplo03_Erros_Personalizados\Exemplo03_Erros_Personalizados\obj\Debug\netcoreapp2.1\Exemplo03_Erros_Personalizados.csprojAssemblyReference.cache
+D:\Treinamento\C Sharp\Projeto\Secao11\Exemplos\Exemplo03_Erros_Personalizados\Exemplo03_Erros_Personalizados\obj\Debug\netcoreapp2.1\Exemplo03_Erros_Personalizados.csproj.CoreCompileInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao11\Exemplos\Exemplo03_Erros_Personalizados\Exemplo03_Erros_Personalizados\obj\Debug\netcoreapp2.1\Exemplo03_Erros_Personalizados.AssemblyInfoInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao11\Exemplos\Exemplo03_Erros_Personalizados\Exemplo03_Erros_Personalizados\obj\Debug\netcoreapp2.1\Exemplo03_Erros_Personalizados.AssemblyInfo.cs
+D:\Treinamento\C Sharp\Projeto\Secao11\Exemplos\Exemplo03_Erros_Personalizados\Exemplo03_Erros_Personalizados\obj\Debug\netcoreapp2.1\Exemplo03_Erros_Personalizados.dll
+D:\Treinamento\C Sharp\Projeto\Secao11\Exemplos\Exemplo03_Erros_Personalizados\Exemplo03_Erros_Personalizados\obj\Debug\netcoreapp2.1\Exemplo03_Erros_Personalizados.pdb

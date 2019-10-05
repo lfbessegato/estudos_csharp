@@ -1,0 +1,11 @@
+D:\Treinamento\C Sharp\Projeto\Secao11\Exemplos\Exemplo01_Try_Catch\Exemplo01_Try_Catch\bin\Debug\netcoreapp2.1\Exemplo01_Try_Catch.deps.json
+D:\Treinamento\C Sharp\Projeto\Secao11\Exemplos\Exemplo01_Try_Catch\Exemplo01_Try_Catch\bin\Debug\netcoreapp2.1\Exemplo01_Try_Catch.runtimeconfig.json
+D:\Treinamento\C Sharp\Projeto\Secao11\Exemplos\Exemplo01_Try_Catch\Exemplo01_Try_Catch\bin\Debug\netcoreapp2.1\Exemplo01_Try_Catch.runtimeconfig.dev.json
+D:\Treinamento\C Sharp\Projeto\Secao11\Exemplos\Exemplo01_Try_Catch\Exemplo01_Try_Catch\bin\Debug\netcoreapp2.1\Exemplo01_Try_Catch.dll
+D:\Treinamento\C Sharp\Projeto\Secao11\Exemplos\Exemplo01_Try_Catch\Exemplo01_Try_Catch\bin\Debug\netcoreapp2.1\Exemplo01_Try_Catch.pdb
+D:\Treinamento\C Sharp\Projeto\Secao11\Exemplos\Exemplo01_Try_Catch\Exemplo01_Try_Catch\obj\Debug\netcoreapp2.1\Exemplo01_Try_Catch.csprojAssemblyReference.cache
+D:\Treinamento\C Sharp\Projeto\Secao11\Exemplos\Exemplo01_Try_Catch\Exemplo01_Try_Catch\obj\Debug\netcoreapp2.1\Exemplo01_Try_Catch.csproj.CoreCompileInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao11\Exemplos\Exemplo01_Try_Catch\Exemplo01_Try_Catch\obj\Debug\netcoreapp2.1\Exemplo01_Try_Catch.AssemblyInfoInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao11\Exemplos\Exemplo01_Try_Catch\Exemplo01_Try_Catch\obj\Debug\netcoreapp2.1\Exemplo01_Try_Catch.AssemblyInfo.cs
+D:\Treinamento\C Sharp\Projeto\Secao11\Exemplos\Exemplo01_Try_Catch\Exemplo01_Try_Catch\obj\Debug\netcoreapp2.1\Exemplo01_Try_Catch.dll
+D:\Treinamento\C Sharp\Projeto\Secao11\Exemplos\Exemplo01_Try_Catch\Exemplo01_Try_Catch\obj\Debug\netcoreapp2.1\Exemplo01_Try_Catch.pdb
