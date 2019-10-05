@@ -1,0 +1,11 @@
+D:\Treinamento\C Sharp\Projeto\Secao13\Exemplos\Exemplo04_StreamReader\Exemplo04_StreamReader\bin\Debug\netcoreapp2.1\Exemplo04_StreamReader.deps.json
+D:\Treinamento\C Sharp\Projeto\Secao13\Exemplos\Exemplo04_StreamReader\Exemplo04_StreamReader\bin\Debug\netcoreapp2.1\Exemplo04_StreamReader.runtimeconfig.json
+D:\Treinamento\C Sharp\Projeto\Secao13\Exemplos\Exemplo04_StreamReader\Exemplo04_StreamReader\bin\Debug\netcoreapp2.1\Exemplo04_StreamReader.runtimeconfig.dev.json
+D:\Treinamento\C Sharp\Projeto\Secao13\Exemplos\Exemplo04_StreamReader\Exemplo04_StreamReader\bin\Debug\netcoreapp2.1\Exemplo04_StreamReader.dll
+D:\Treinamento\C Sharp\Projeto\Secao13\Exemplos\Exemplo04_StreamReader\Exemplo04_StreamReader\bin\Debug\netcoreapp2.1\Exemplo04_StreamReader.pdb
+D:\Treinamento\C Sharp\Projeto\Secao13\Exemplos\Exemplo04_StreamReader\Exemplo04_StreamReader\obj\Debug\netcoreapp2.1\Exemplo04_StreamReader.csprojAssemblyReference.cache
+D:\Treinamento\C Sharp\Projeto\Secao13\Exemplos\Exemplo04_StreamReader\Exemplo04_StreamReader\obj\Debug\netcoreapp2.1\Exemplo04_StreamReader.csproj.CoreCompileInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao13\Exemplos\Exemplo04_StreamReader\Exemplo04_StreamReader\obj\Debug\netcoreapp2.1\Exemplo04_StreamReader.AssemblyInfoInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao13\Exemplos\Exemplo04_StreamReader\Exemplo04_StreamReader\obj\Debug\netcoreapp2.1\Exemplo04_StreamReader.AssemblyInfo.cs
+D:\Treinamento\C Sharp\Projeto\Secao13\Exemplos\Exemplo04_StreamReader\Exemplo04_StreamReader\obj\Debug\netcoreapp2.1\Exemplo04_StreamReader.dll
+D:\Treinamento\C Sharp\Projeto\Secao13\Exemplos\Exemplo04_StreamReader\Exemplo04_StreamReader\obj\Debug\netcoreapp2.1\Exemplo04_StreamReader.pdb

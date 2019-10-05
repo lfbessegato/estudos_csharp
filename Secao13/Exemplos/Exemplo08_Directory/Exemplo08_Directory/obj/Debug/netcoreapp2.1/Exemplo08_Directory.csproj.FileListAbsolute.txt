@@ -1,0 +1,11 @@
+D:\Treinamento\C Sharp\Projeto\Secao13\Exemplos\Exemplo08_Directory\Exemplo08_Directory\bin\Debug\netcoreapp2.1\Exemplo08_Directory.deps.json
+D:\Treinamento\C Sharp\Projeto\Secao13\Exemplos\Exemplo08_Directory\Exemplo08_Directory\bin\Debug\netcoreapp2.1\Exemplo08_Directory.runtimeconfig.json
+D:\Treinamento\C Sharp\Projeto\Secao13\Exemplos\Exemplo08_Directory\Exemplo08_Directory\bin\Debug\netcoreapp2.1\Exemplo08_Directory.runtimeconfig.dev.json
+D:\Treinamento\C Sharp\Projeto\Secao13\Exemplos\Exemplo08_Directory\Exemplo08_Directory\bin\Debug\netcoreapp2.1\Exemplo08_Directory.dll
+D:\Treinamento\C Sharp\Projeto\Secao13\Exemplos\Exemplo08_Directory\Exemplo08_Directory\bin\Debug\netcoreapp2.1\Exemplo08_Directory.pdb
+D:\Treinamento\C Sharp\Projeto\Secao13\Exemplos\Exemplo08_Directory\Exemplo08_Directory\obj\Debug\netcoreapp2.1\Exemplo08_Directory.csprojAssemblyReference.cache
+D:\Treinamento\C Sharp\Projeto\Secao13\Exemplos\Exemplo08_Directory\Exemplo08_Directory\obj\Debug\netcoreapp2.1\Exemplo08_Directory.csproj.CoreCompileInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao13\Exemplos\Exemplo08_Directory\Exemplo08_Directory\obj\Debug\netcoreapp2.1\Exemplo08_Directory.AssemblyInfoInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao13\Exemplos\Exemplo08_Directory\Exemplo08_Directory\obj\Debug\netcoreapp2.1\Exemplo08_Directory.AssemblyInfo.cs
+D:\Treinamento\C Sharp\Projeto\Secao13\Exemplos\Exemplo08_Directory\Exemplo08_Directory\obj\Debug\netcoreapp2.1\Exemplo08_Directory.dll
+D:\Treinamento\C Sharp\Projeto\Secao13\Exemplos\Exemplo08_Directory\Exemplo08_Directory\obj\Debug\netcoreapp2.1\Exemplo08_Directory.pdb

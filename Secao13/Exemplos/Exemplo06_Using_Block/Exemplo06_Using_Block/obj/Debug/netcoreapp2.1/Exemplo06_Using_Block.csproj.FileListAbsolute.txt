@@ -1,0 +1,11 @@
+D:\Treinamento\C Sharp\Projeto\Secao13\Exemplos\Exemplo06_Using_Block\Exemplo06_Using_Block\bin\Debug\netcoreapp2.1\Exemplo06_Using_Block.deps.json
+D:\Treinamento\C Sharp\Projeto\Secao13\Exemplos\Exemplo06_Using_Block\Exemplo06_Using_Block\bin\Debug\netcoreapp2.1\Exemplo06_Using_Block.runtimeconfig.json
+D:\Treinamento\C Sharp\Projeto\Secao13\Exemplos\Exemplo06_Using_Block\Exemplo06_Using_Block\bin\Debug\netcoreapp2.1\Exemplo06_Using_Block.runtimeconfig.dev.json
+D:\Treinamento\C Sharp\Projeto\Secao13\Exemplos\Exemplo06_Using_Block\Exemplo06_Using_Block\bin\Debug\netcoreapp2.1\Exemplo06_Using_Block.dll
+D:\Treinamento\C Sharp\Projeto\Secao13\Exemplos\Exemplo06_Using_Block\Exemplo06_Using_Block\bin\Debug\netcoreapp2.1\Exemplo06_Using_Block.pdb
+D:\Treinamento\C Sharp\Projeto\Secao13\Exemplos\Exemplo06_Using_Block\Exemplo06_Using_Block\obj\Debug\netcoreapp2.1\Exemplo06_Using_Block.csprojAssemblyReference.cache
+D:\Treinamento\C Sharp\Projeto\Secao13\Exemplos\Exemplo06_Using_Block\Exemplo06_Using_Block\obj\Debug\netcoreapp2.1\Exemplo06_Using_Block.csproj.CoreCompileInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao13\Exemplos\Exemplo06_Using_Block\Exemplo06_Using_Block\obj\Debug\netcoreapp2.1\Exemplo06_Using_Block.AssemblyInfoInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao13\Exemplos\Exemplo06_Using_Block\Exemplo06_Using_Block\obj\Debug\netcoreapp2.1\Exemplo06_Using_Block.AssemblyInfo.cs
+D:\Treinamento\C Sharp\Projeto\Secao13\Exemplos\Exemplo06_Using_Block\Exemplo06_Using_Block\obj\Debug\netcoreapp2.1\Exemplo06_Using_Block.dll
+D:\Treinamento\C Sharp\Projeto\Secao13\Exemplos\Exemplo06_Using_Block\Exemplo06_Using_Block\obj\Debug\netcoreapp2.1\Exemplo06_Using_Block.pdb

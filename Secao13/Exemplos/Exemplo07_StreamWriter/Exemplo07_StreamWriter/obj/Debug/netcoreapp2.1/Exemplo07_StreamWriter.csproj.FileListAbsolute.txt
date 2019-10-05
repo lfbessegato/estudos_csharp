@@ -1,0 +1,11 @@
+D:\Treinamento\C Sharp\Projeto\Secao13\Exemplos\Exemplo07_StreamWriter\Exemplo07_StreamWriter\bin\Debug\netcoreapp2.1\Exemplo07_StreamWriter.deps.json
+D:\Treinamento\C Sharp\Projeto\Secao13\Exemplos\Exemplo07_StreamWriter\Exemplo07_StreamWriter\bin\Debug\netcoreapp2.1\Exemplo07_StreamWriter.runtimeconfig.json
+D:\Treinamento\C Sharp\Projeto\Secao13\Exemplos\Exemplo07_StreamWriter\Exemplo07_StreamWriter\bin\Debug\netcoreapp2.1\Exemplo07_StreamWriter.runtimeconfig.dev.json
+D:\Treinamento\C Sharp\Projeto\Secao13\Exemplos\Exemplo07_StreamWriter\Exemplo07_StreamWriter\bin\Debug\netcoreapp2.1\Exemplo07_StreamWriter.dll
+D:\Treinamento\C Sharp\Projeto\Secao13\Exemplos\Exemplo07_StreamWriter\Exemplo07_StreamWriter\bin\Debug\netcoreapp2.1\Exemplo07_StreamWriter.pdb
+D:\Treinamento\C Sharp\Projeto\Secao13\Exemplos\Exemplo07_StreamWriter\Exemplo07_StreamWriter\obj\Debug\netcoreapp2.1\Exemplo07_StreamWriter.csprojAssemblyReference.cache
+D:\Treinamento\C Sharp\Projeto\Secao13\Exemplos\Exemplo07_StreamWriter\Exemplo07_StreamWriter\obj\Debug\netcoreapp2.1\Exemplo07_StreamWriter.csproj.CoreCompileInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao13\Exemplos\Exemplo07_StreamWriter\Exemplo07_StreamWriter\obj\Debug\netcoreapp2.1\Exemplo07_StreamWriter.AssemblyInfoInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao13\Exemplos\Exemplo07_StreamWriter\Exemplo07_StreamWriter\obj\Debug\netcoreapp2.1\Exemplo07_StreamWriter.AssemblyInfo.cs
+D:\Treinamento\C Sharp\Projeto\Secao13\Exemplos\Exemplo07_StreamWriter\Exemplo07_StreamWriter\obj\Debug\netcoreapp2.1\Exemplo07_StreamWriter.dll
+D:\Treinamento\C Sharp\Projeto\Secao13\Exemplos\Exemplo07_StreamWriter\Exemplo07_StreamWriter\obj\Debug\netcoreapp2.1\Exemplo07_StreamWriter.pdb
