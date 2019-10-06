@@ -1,0 +1,11 @@
+D:\Treinamento\C Sharp\Projeto\Secao15\Exemplo01_Extension_Method\Exemplo01_Extension_Method\bin\Debug\netcoreapp2.1\Exemplo01_Extension_Method.deps.json
+D:\Treinamento\C Sharp\Projeto\Secao15\Exemplo01_Extension_Method\Exemplo01_Extension_Method\bin\Debug\netcoreapp2.1\Exemplo01_Extension_Method.runtimeconfig.json
+D:\Treinamento\C Sharp\Projeto\Secao15\Exemplo01_Extension_Method\Exemplo01_Extension_Method\bin\Debug\netcoreapp2.1\Exemplo01_Extension_Method.runtimeconfig.dev.json
+D:\Treinamento\C Sharp\Projeto\Secao15\Exemplo01_Extension_Method\Exemplo01_Extension_Method\bin\Debug\netcoreapp2.1\Exemplo01_Extension_Method.dll
+D:\Treinamento\C Sharp\Projeto\Secao15\Exemplo01_Extension_Method\Exemplo01_Extension_Method\bin\Debug\netcoreapp2.1\Exemplo01_Extension_Method.pdb
+D:\Treinamento\C Sharp\Projeto\Secao15\Exemplo01_Extension_Method\Exemplo01_Extension_Method\obj\Debug\netcoreapp2.1\Exemplo01_Extension_Method.csprojAssemblyReference.cache
+D:\Treinamento\C Sharp\Projeto\Secao15\Exemplo01_Extension_Method\Exemplo01_Extension_Method\obj\Debug\netcoreapp2.1\Exemplo01_Extension_Method.csproj.CoreCompileInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao15\Exemplo01_Extension_Method\Exemplo01_Extension_Method\obj\Debug\netcoreapp2.1\Exemplo01_Extension_Method.AssemblyInfoInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao15\Exemplo01_Extension_Method\Exemplo01_Extension_Method\obj\Debug\netcoreapp2.1\Exemplo01_Extension_Method.AssemblyInfo.cs
+D:\Treinamento\C Sharp\Projeto\Secao15\Exemplo01_Extension_Method\Exemplo01_Extension_Method\obj\Debug\netcoreapp2.1\Exemplo01_Extension_Method.dll
+D:\Treinamento\C Sharp\Projeto\Secao15\Exemplo01_Extension_Method\Exemplo01_Extension_Method\obj\Debug\netcoreapp2.1\Exemplo01_Extension_Method.pdb
