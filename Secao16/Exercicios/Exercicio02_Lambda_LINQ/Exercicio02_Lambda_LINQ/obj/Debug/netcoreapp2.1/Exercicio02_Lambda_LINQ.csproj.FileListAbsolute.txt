@@ -1,0 +1,11 @@
+D:\Treinamento\C Sharp\Projeto\Secao16\Exercicios\Exercicio02_Lambda_LINQ\Exercicio02_Lambda_LINQ\obj\Debug\netcoreapp2.1\Exercicio02_Lambda_LINQ.csprojAssemblyReference.cache
+D:\Treinamento\C Sharp\Projeto\Secao16\Exercicios\Exercicio02_Lambda_LINQ\Exercicio02_Lambda_LINQ\obj\Debug\netcoreapp2.1\Exercicio02_Lambda_LINQ.csproj.CoreCompileInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao16\Exercicios\Exercicio02_Lambda_LINQ\Exercicio02_Lambda_LINQ\obj\Debug\netcoreapp2.1\Exercicio02_Lambda_LINQ.AssemblyInfoInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao16\Exercicios\Exercicio02_Lambda_LINQ\Exercicio02_Lambda_LINQ\obj\Debug\netcoreapp2.1\Exercicio02_Lambda_LINQ.AssemblyInfo.cs
+D:\Treinamento\C Sharp\Projeto\Secao16\Exercicios\Exercicio02_Lambda_LINQ\Exercicio02_Lambda_LINQ\bin\Debug\netcoreapp2.1\Exercicio02_Lambda_LINQ.deps.json
+D:\Treinamento\C Sharp\Projeto\Secao16\Exercicios\Exercicio02_Lambda_LINQ\Exercicio02_Lambda_LINQ\bin\Debug\netcoreapp2.1\Exercicio02_Lambda_LINQ.runtimeconfig.json
+D:\Treinamento\C Sharp\Projeto\Secao16\Exercicios\Exercicio02_Lambda_LINQ\Exercicio02_Lambda_LINQ\bin\Debug\netcoreapp2.1\Exercicio02_Lambda_LINQ.runtimeconfig.dev.json
+D:\Treinamento\C Sharp\Projeto\Secao16\Exercicios\Exercicio02_Lambda_LINQ\Exercicio02_Lambda_LINQ\bin\Debug\netcoreapp2.1\Exercicio02_Lambda_LINQ.dll
+D:\Treinamento\C Sharp\Projeto\Secao16\Exercicios\Exercicio02_Lambda_LINQ\Exercicio02_Lambda_LINQ\bin\Debug\netcoreapp2.1\Exercicio02_Lambda_LINQ.pdb
+D:\Treinamento\C Sharp\Projeto\Secao16\Exercicios\Exercicio02_Lambda_LINQ\Exercicio02_Lambda_LINQ\obj\Debug\netcoreapp2.1\Exercicio02_Lambda_LINQ.dll
+D:\Treinamento\C Sharp\Projeto\Secao16\Exercicios\Exercicio02_Lambda_LINQ\Exercicio02_Lambda_LINQ\obj\Debug\netcoreapp2.1\Exercicio02_Lambda_LINQ.pdb

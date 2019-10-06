@@ -1,0 +1,11 @@
+D:\Treinamento\C Sharp\Projeto\Secao16\Exemplos\Exemplo06_Delegate_Func\Exemplo06_Delegate_Func\bin\Debug\netcoreapp2.1\Exemplo06_Delegate_Func.deps.json
+D:\Treinamento\C Sharp\Projeto\Secao16\Exemplos\Exemplo06_Delegate_Func\Exemplo06_Delegate_Func\bin\Debug\netcoreapp2.1\Exemplo06_Delegate_Func.runtimeconfig.json
+D:\Treinamento\C Sharp\Projeto\Secao16\Exemplos\Exemplo06_Delegate_Func\Exemplo06_Delegate_Func\bin\Debug\netcoreapp2.1\Exemplo06_Delegate_Func.runtimeconfig.dev.json
+D:\Treinamento\C Sharp\Projeto\Secao16\Exemplos\Exemplo06_Delegate_Func\Exemplo06_Delegate_Func\bin\Debug\netcoreapp2.1\Exemplo06_Delegate_Func.dll
+D:\Treinamento\C Sharp\Projeto\Secao16\Exemplos\Exemplo06_Delegate_Func\Exemplo06_Delegate_Func\bin\Debug\netcoreapp2.1\Exemplo06_Delegate_Func.pdb
+D:\Treinamento\C Sharp\Projeto\Secao16\Exemplos\Exemplo06_Delegate_Func\Exemplo06_Delegate_Func\obj\Debug\netcoreapp2.1\Exemplo06_Delegate_Func.csprojAssemblyReference.cache
+D:\Treinamento\C Sharp\Projeto\Secao16\Exemplos\Exemplo06_Delegate_Func\Exemplo06_Delegate_Func\obj\Debug\netcoreapp2.1\Exemplo06_Delegate_Func.csproj.CoreCompileInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao16\Exemplos\Exemplo06_Delegate_Func\Exemplo06_Delegate_Func\obj\Debug\netcoreapp2.1\Exemplo06_Delegate_Func.AssemblyInfoInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao16\Exemplos\Exemplo06_Delegate_Func\Exemplo06_Delegate_Func\obj\Debug\netcoreapp2.1\Exemplo06_Delegate_Func.AssemblyInfo.cs
+D:\Treinamento\C Sharp\Projeto\Secao16\Exemplos\Exemplo06_Delegate_Func\Exemplo06_Delegate_Func\obj\Debug\netcoreapp2.1\Exemplo06_Delegate_Func.dll
+D:\Treinamento\C Sharp\Projeto\Secao16\Exemplos\Exemplo06_Delegate_Func\Exemplo06_Delegate_Func\obj\Debug\netcoreapp2.1\Exemplo06_Delegate_Func.pdb

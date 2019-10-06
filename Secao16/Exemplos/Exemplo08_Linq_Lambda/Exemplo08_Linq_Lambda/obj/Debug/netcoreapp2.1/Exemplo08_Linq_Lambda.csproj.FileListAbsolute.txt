@@ -1,0 +1,11 @@
+D:\Treinamento\C Sharp\Projeto\Secao16\Exemplos\Exemplo08_Linq_Lambda\Exemplo08_Linq_Lambda\bin\Debug\netcoreapp2.1\Exemplo08_Linq_Lambda.deps.json
+D:\Treinamento\C Sharp\Projeto\Secao16\Exemplos\Exemplo08_Linq_Lambda\Exemplo08_Linq_Lambda\bin\Debug\netcoreapp2.1\Exemplo08_Linq_Lambda.runtimeconfig.json
+D:\Treinamento\C Sharp\Projeto\Secao16\Exemplos\Exemplo08_Linq_Lambda\Exemplo08_Linq_Lambda\bin\Debug\netcoreapp2.1\Exemplo08_Linq_Lambda.runtimeconfig.dev.json
+D:\Treinamento\C Sharp\Projeto\Secao16\Exemplos\Exemplo08_Linq_Lambda\Exemplo08_Linq_Lambda\bin\Debug\netcoreapp2.1\Exemplo08_Linq_Lambda.dll
+D:\Treinamento\C Sharp\Projeto\Secao16\Exemplos\Exemplo08_Linq_Lambda\Exemplo08_Linq_Lambda\bin\Debug\netcoreapp2.1\Exemplo08_Linq_Lambda.pdb
+D:\Treinamento\C Sharp\Projeto\Secao16\Exemplos\Exemplo08_Linq_Lambda\Exemplo08_Linq_Lambda\obj\Debug\netcoreapp2.1\Exemplo08_Linq_Lambda.csprojAssemblyReference.cache
+D:\Treinamento\C Sharp\Projeto\Secao16\Exemplos\Exemplo08_Linq_Lambda\Exemplo08_Linq_Lambda\obj\Debug\netcoreapp2.1\Exemplo08_Linq_Lambda.csproj.CoreCompileInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao16\Exemplos\Exemplo08_Linq_Lambda\Exemplo08_Linq_Lambda\obj\Debug\netcoreapp2.1\Exemplo08_Linq_Lambda.AssemblyInfoInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao16\Exemplos\Exemplo08_Linq_Lambda\Exemplo08_Linq_Lambda\obj\Debug\netcoreapp2.1\Exemplo08_Linq_Lambda.AssemblyInfo.cs
+D:\Treinamento\C Sharp\Projeto\Secao16\Exemplos\Exemplo08_Linq_Lambda\Exemplo08_Linq_Lambda\obj\Debug\netcoreapp2.1\Exemplo08_Linq_Lambda.dll
+D:\Treinamento\C Sharp\Projeto\Secao16\Exemplos\Exemplo08_Linq_Lambda\Exemplo08_Linq_Lambda\obj\Debug\netcoreapp2.1\Exemplo08_Linq_Lambda.pdb

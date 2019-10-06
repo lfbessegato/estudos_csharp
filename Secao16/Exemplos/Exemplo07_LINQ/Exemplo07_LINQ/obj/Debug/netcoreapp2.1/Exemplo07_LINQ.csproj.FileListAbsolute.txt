@@ -1,0 +1,11 @@
+D:\Treinamento\C Sharp\Projeto\Secao16\Exemplos\Exemplo07_LINQ\Exemplo07_LINQ\bin\Debug\netcoreapp2.1\Exemplo07_LINQ.deps.json
+D:\Treinamento\C Sharp\Projeto\Secao16\Exemplos\Exemplo07_LINQ\Exemplo07_LINQ\bin\Debug\netcoreapp2.1\Exemplo07_LINQ.runtimeconfig.json
+D:\Treinamento\C Sharp\Projeto\Secao16\Exemplos\Exemplo07_LINQ\Exemplo07_LINQ\bin\Debug\netcoreapp2.1\Exemplo07_LINQ.runtimeconfig.dev.json
+D:\Treinamento\C Sharp\Projeto\Secao16\Exemplos\Exemplo07_LINQ\Exemplo07_LINQ\bin\Debug\netcoreapp2.1\Exemplo07_LINQ.dll
+D:\Treinamento\C Sharp\Projeto\Secao16\Exemplos\Exemplo07_LINQ\Exemplo07_LINQ\bin\Debug\netcoreapp2.1\Exemplo07_LINQ.pdb
+D:\Treinamento\C Sharp\Projeto\Secao16\Exemplos\Exemplo07_LINQ\Exemplo07_LINQ\obj\Debug\netcoreapp2.1\Exemplo07_LINQ.csprojAssemblyReference.cache
+D:\Treinamento\C Sharp\Projeto\Secao16\Exemplos\Exemplo07_LINQ\Exemplo07_LINQ\obj\Debug\netcoreapp2.1\Exemplo07_LINQ.csproj.CoreCompileInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao16\Exemplos\Exemplo07_LINQ\Exemplo07_LINQ\obj\Debug\netcoreapp2.1\Exemplo07_LINQ.AssemblyInfoInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao16\Exemplos\Exemplo07_LINQ\Exemplo07_LINQ\obj\Debug\netcoreapp2.1\Exemplo07_LINQ.AssemblyInfo.cs
+D:\Treinamento\C Sharp\Projeto\Secao16\Exemplos\Exemplo07_LINQ\Exemplo07_LINQ\obj\Debug\netcoreapp2.1\Exemplo07_LINQ.dll
+D:\Treinamento\C Sharp\Projeto\Secao16\Exemplos\Exemplo07_LINQ\Exemplo07_LINQ\obj\Debug\netcoreapp2.1\Exemplo07_LINQ.pdb

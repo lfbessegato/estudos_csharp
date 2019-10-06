@@ -1,0 +1,11 @@
+D:\Treinamento\C Sharp\Projeto\Secao16\Exemplos\Exemplo03_MultiDelegates\Exemplo03_MultiDelegates\bin\Debug\netcoreapp2.1\Exemplo03_MultiDelegates.deps.json
+D:\Treinamento\C Sharp\Projeto\Secao16\Exemplos\Exemplo03_MultiDelegates\Exemplo03_MultiDelegates\bin\Debug\netcoreapp2.1\Exemplo03_MultiDelegates.runtimeconfig.json
+D:\Treinamento\C Sharp\Projeto\Secao16\Exemplos\Exemplo03_MultiDelegates\Exemplo03_MultiDelegates\bin\Debug\netcoreapp2.1\Exemplo03_MultiDelegates.runtimeconfig.dev.json
+D:\Treinamento\C Sharp\Projeto\Secao16\Exemplos\Exemplo03_MultiDelegates\Exemplo03_MultiDelegates\bin\Debug\netcoreapp2.1\Exemplo03_MultiDelegates.dll
+D:\Treinamento\C Sharp\Projeto\Secao16\Exemplos\Exemplo03_MultiDelegates\Exemplo03_MultiDelegates\bin\Debug\netcoreapp2.1\Exemplo03_MultiDelegates.pdb
+D:\Treinamento\C Sharp\Projeto\Secao16\Exemplos\Exemplo03_MultiDelegates\Exemplo03_MultiDelegates\obj\Debug\netcoreapp2.1\Exemplo03_MultiDelegates.csprojAssemblyReference.cache
+D:\Treinamento\C Sharp\Projeto\Secao16\Exemplos\Exemplo03_MultiDelegates\Exemplo03_MultiDelegates\obj\Debug\netcoreapp2.1\Exemplo03_MultiDelegates.csproj.CoreCompileInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao16\Exemplos\Exemplo03_MultiDelegates\Exemplo03_MultiDelegates\obj\Debug\netcoreapp2.1\Exemplo03_MultiDelegates.AssemblyInfoInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao16\Exemplos\Exemplo03_MultiDelegates\Exemplo03_MultiDelegates\obj\Debug\netcoreapp2.1\Exemplo03_MultiDelegates.AssemblyInfo.cs
+D:\Treinamento\C Sharp\Projeto\Secao16\Exemplos\Exemplo03_MultiDelegates\Exemplo03_MultiDelegates\obj\Debug\netcoreapp2.1\Exemplo03_MultiDelegates.dll
+D:\Treinamento\C Sharp\Projeto\Secao16\Exemplos\Exemplo03_MultiDelegates\Exemplo03_MultiDelegates\obj\Debug\netcoreapp2.1\Exemplo03_MultiDelegates.pdb

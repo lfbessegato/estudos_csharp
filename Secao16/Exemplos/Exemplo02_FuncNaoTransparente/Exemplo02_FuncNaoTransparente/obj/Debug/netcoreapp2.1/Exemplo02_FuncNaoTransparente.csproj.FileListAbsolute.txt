@@ -1,0 +1,11 @@
+D:\Treinamento\C Sharp\Projeto\Secao16\Exemplos\Exemplo02_FuncNaoTransparente\Exemplo02_FuncNaoTransparente\bin\Debug\netcoreapp2.1\Exemplo02_FuncNaoTransparente.deps.json
+D:\Treinamento\C Sharp\Projeto\Secao16\Exemplos\Exemplo02_FuncNaoTransparente\Exemplo02_FuncNaoTransparente\bin\Debug\netcoreapp2.1\Exemplo02_FuncNaoTransparente.runtimeconfig.json
+D:\Treinamento\C Sharp\Projeto\Secao16\Exemplos\Exemplo02_FuncNaoTransparente\Exemplo02_FuncNaoTransparente\bin\Debug\netcoreapp2.1\Exemplo02_FuncNaoTransparente.runtimeconfig.dev.json
+D:\Treinamento\C Sharp\Projeto\Secao16\Exemplos\Exemplo02_FuncNaoTransparente\Exemplo02_FuncNaoTransparente\bin\Debug\netcoreapp2.1\Exemplo02_FuncNaoTransparente.dll
+D:\Treinamento\C Sharp\Projeto\Secao16\Exemplos\Exemplo02_FuncNaoTransparente\Exemplo02_FuncNaoTransparente\bin\Debug\netcoreapp2.1\Exemplo02_FuncNaoTransparente.pdb
+D:\Treinamento\C Sharp\Projeto\Secao16\Exemplos\Exemplo02_FuncNaoTransparente\Exemplo02_FuncNaoTransparente\obj\Debug\netcoreapp2.1\Exemplo02_FuncNaoTransparente.csprojAssemblyReference.cache
+D:\Treinamento\C Sharp\Projeto\Secao16\Exemplos\Exemplo02_FuncNaoTransparente\Exemplo02_FuncNaoTransparente\obj\Debug\netcoreapp2.1\Exemplo02_FuncNaoTransparente.csproj.CoreCompileInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao16\Exemplos\Exemplo02_FuncNaoTransparente\Exemplo02_FuncNaoTransparente\obj\Debug\netcoreapp2.1\Exemplo02_FuncNaoTransparente.AssemblyInfoInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao16\Exemplos\Exemplo02_FuncNaoTransparente\Exemplo02_FuncNaoTransparente\obj\Debug\netcoreapp2.1\Exemplo02_FuncNaoTransparente.AssemblyInfo.cs
+D:\Treinamento\C Sharp\Projeto\Secao16\Exemplos\Exemplo02_FuncNaoTransparente\Exemplo02_FuncNaoTransparente\obj\Debug\netcoreapp2.1\Exemplo02_FuncNaoTransparente.dll
+D:\Treinamento\C Sharp\Projeto\Secao16\Exemplos\Exemplo02_FuncNaoTransparente\Exemplo02_FuncNaoTransparente\obj\Debug\netcoreapp2.1\Exemplo02_FuncNaoTransparente.pdb

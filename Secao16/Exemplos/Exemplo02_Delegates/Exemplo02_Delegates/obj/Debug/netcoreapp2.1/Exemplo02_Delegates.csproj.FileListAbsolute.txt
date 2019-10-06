@@ -1,0 +1,11 @@
+D:\Treinamento\C Sharp\Projeto\Secao16\Exemplos\Exemplo02_Delegates\Exemplo02_Delegates\obj\Debug\netcoreapp2.1\Exemplo02_Delegates.csprojAssemblyReference.cache
+D:\Treinamento\C Sharp\Projeto\Secao16\Exemplos\Exemplo02_Delegates\Exemplo02_Delegates\obj\Debug\netcoreapp2.1\Exemplo02_Delegates.csproj.CoreCompileInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao16\Exemplos\Exemplo02_Delegates\Exemplo02_Delegates\obj\Debug\netcoreapp2.1\Exemplo02_Delegates.AssemblyInfoInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao16\Exemplos\Exemplo02_Delegates\Exemplo02_Delegates\obj\Debug\netcoreapp2.1\Exemplo02_Delegates.AssemblyInfo.cs
+D:\Treinamento\C Sharp\Projeto\Secao16\Exemplos\Exemplo02_Delegates\Exemplo02_Delegates\bin\Debug\netcoreapp2.1\Exemplo02_Delegates.deps.json
+D:\Treinamento\C Sharp\Projeto\Secao16\Exemplos\Exemplo02_Delegates\Exemplo02_Delegates\bin\Debug\netcoreapp2.1\Exemplo02_Delegates.runtimeconfig.json
+D:\Treinamento\C Sharp\Projeto\Secao16\Exemplos\Exemplo02_Delegates\Exemplo02_Delegates\bin\Debug\netcoreapp2.1\Exemplo02_Delegates.runtimeconfig.dev.json
+D:\Treinamento\C Sharp\Projeto\Secao16\Exemplos\Exemplo02_Delegates\Exemplo02_Delegates\bin\Debug\netcoreapp2.1\Exemplo02_Delegates.dll
+D:\Treinamento\C Sharp\Projeto\Secao16\Exemplos\Exemplo02_Delegates\Exemplo02_Delegates\bin\Debug\netcoreapp2.1\Exemplo02_Delegates.pdb
+D:\Treinamento\C Sharp\Projeto\Secao16\Exemplos\Exemplo02_Delegates\Exemplo02_Delegates\obj\Debug\netcoreapp2.1\Exemplo02_Delegates.dll
+D:\Treinamento\C Sharp\Projeto\Secao16\Exemplos\Exemplo02_Delegates\Exemplo02_Delegates\obj\Debug\netcoreapp2.1\Exemplo02_Delegates.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exemplo09_LINQ_NotacaoSQL", "Exemplo09_LINQ_NotacaoSQL\Exemplo09_LINQ_NotacaoSQL.csproj", "{EBC952B9-CBA7-4A2F-9F25-DD9ADD49BDC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBC952B9-CBA7-4A2F-9F25-DD9ADD49BDC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBC952B9-CBA7-4A2F-9F25-DD9ADD49BDC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBC952B9-CBA7-4A2F-9F25-DD9ADD49BDC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBC952B9-CBA7-4A2F-9F25-DD9ADD49BDC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {222111B0-509F-40B0-8E13-E367D0714487}
+	EndGlobalSection
+EndGlobal
