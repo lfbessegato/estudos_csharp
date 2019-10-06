@@ -1,0 +1,11 @@
+D:\Treinamento\C Sharp\Projeto\Secao14\Exemplos\Exemplo02_Interface_Abstract\Exemplo02_Interface_Abstract\bin\Debug\netcoreapp2.1\Exemplo02_Interface_Abstract.deps.json
+D:\Treinamento\C Sharp\Projeto\Secao14\Exemplos\Exemplo02_Interface_Abstract\Exemplo02_Interface_Abstract\bin\Debug\netcoreapp2.1\Exemplo02_Interface_Abstract.runtimeconfig.json
+D:\Treinamento\C Sharp\Projeto\Secao14\Exemplos\Exemplo02_Interface_Abstract\Exemplo02_Interface_Abstract\bin\Debug\netcoreapp2.1\Exemplo02_Interface_Abstract.runtimeconfig.dev.json
+D:\Treinamento\C Sharp\Projeto\Secao14\Exemplos\Exemplo02_Interface_Abstract\Exemplo02_Interface_Abstract\bin\Debug\netcoreapp2.1\Exemplo02_Interface_Abstract.dll
+D:\Treinamento\C Sharp\Projeto\Secao14\Exemplos\Exemplo02_Interface_Abstract\Exemplo02_Interface_Abstract\bin\Debug\netcoreapp2.1\Exemplo02_Interface_Abstract.pdb
+D:\Treinamento\C Sharp\Projeto\Secao14\Exemplos\Exemplo02_Interface_Abstract\Exemplo02_Interface_Abstract\obj\Debug\netcoreapp2.1\Exemplo02_Interface_Abstract.csprojAssemblyReference.cache
+D:\Treinamento\C Sharp\Projeto\Secao14\Exemplos\Exemplo02_Interface_Abstract\Exemplo02_Interface_Abstract\obj\Debug\netcoreapp2.1\Exemplo02_Interface_Abstract.csproj.CoreCompileInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao14\Exemplos\Exemplo02_Interface_Abstract\Exemplo02_Interface_Abstract\obj\Debug\netcoreapp2.1\Exemplo02_Interface_Abstract.AssemblyInfoInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao14\Exemplos\Exemplo02_Interface_Abstract\Exemplo02_Interface_Abstract\obj\Debug\netcoreapp2.1\Exemplo02_Interface_Abstract.AssemblyInfo.cs
+D:\Treinamento\C Sharp\Projeto\Secao14\Exemplos\Exemplo02_Interface_Abstract\Exemplo02_Interface_Abstract\obj\Debug\netcoreapp2.1\Exemplo02_Interface_Abstract.dll
+D:\Treinamento\C Sharp\Projeto\Secao14\Exemplos\Exemplo02_Interface_Abstract\Exemplo02_Interface_Abstract\obj\Debug\netcoreapp2.1\Exemplo02_Interface_Abstract.pdb

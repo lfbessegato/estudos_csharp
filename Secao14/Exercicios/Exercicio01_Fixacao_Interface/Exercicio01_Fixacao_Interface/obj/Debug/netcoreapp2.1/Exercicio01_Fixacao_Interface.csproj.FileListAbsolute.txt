@@ -1,0 +1,11 @@
+D:\Treinamento\C Sharp\Projeto\Secao14\Exercicios\Exercicio01_Fixacao_Interface\Exercicio01_Fixacao_Interface\bin\Debug\netcoreapp2.1\Exercicio01_Fixacao_Interface.deps.json
+D:\Treinamento\C Sharp\Projeto\Secao14\Exercicios\Exercicio01_Fixacao_Interface\Exercicio01_Fixacao_Interface\bin\Debug\netcoreapp2.1\Exercicio01_Fixacao_Interface.runtimeconfig.json
+D:\Treinamento\C Sharp\Projeto\Secao14\Exercicios\Exercicio01_Fixacao_Interface\Exercicio01_Fixacao_Interface\bin\Debug\netcoreapp2.1\Exercicio01_Fixacao_Interface.runtimeconfig.dev.json
+D:\Treinamento\C Sharp\Projeto\Secao14\Exercicios\Exercicio01_Fixacao_Interface\Exercicio01_Fixacao_Interface\bin\Debug\netcoreapp2.1\Exercicio01_Fixacao_Interface.dll
+D:\Treinamento\C Sharp\Projeto\Secao14\Exercicios\Exercicio01_Fixacao_Interface\Exercicio01_Fixacao_Interface\bin\Debug\netcoreapp2.1\Exercicio01_Fixacao_Interface.pdb
+D:\Treinamento\C Sharp\Projeto\Secao14\Exercicios\Exercicio01_Fixacao_Interface\Exercicio01_Fixacao_Interface\obj\Debug\netcoreapp2.1\Exercicio01_Fixacao_Interface.csprojAssemblyReference.cache
+D:\Treinamento\C Sharp\Projeto\Secao14\Exercicios\Exercicio01_Fixacao_Interface\Exercicio01_Fixacao_Interface\obj\Debug\netcoreapp2.1\Exercicio01_Fixacao_Interface.csproj.CoreCompileInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao14\Exercicios\Exercicio01_Fixacao_Interface\Exercicio01_Fixacao_Interface\obj\Debug\netcoreapp2.1\Exercicio01_Fixacao_Interface.AssemblyInfoInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao14\Exercicios\Exercicio01_Fixacao_Interface\Exercicio01_Fixacao_Interface\obj\Debug\netcoreapp2.1\Exercicio01_Fixacao_Interface.AssemblyInfo.cs
+D:\Treinamento\C Sharp\Projeto\Secao14\Exercicios\Exercicio01_Fixacao_Interface\Exercicio01_Fixacao_Interface\obj\Debug\netcoreapp2.1\Exercicio01_Fixacao_Interface.dll
+D:\Treinamento\C Sharp\Projeto\Secao14\Exercicios\Exercicio01_Fixacao_Interface\Exercicio01_Fixacao_Interface\obj\Debug\netcoreapp2.1\Exercicio01_Fixacao_Interface.pdb

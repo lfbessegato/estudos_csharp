@@ -1,0 +1,11 @@
+D:\Treinamento\C Sharp\Projeto\Secao14\Exemplos\Exemplo_Multiplas_Interface\Exemplo_Multiplas_Interface\bin\Debug\netcoreapp2.1\Exemplo_Multiplas_Interface.deps.json
+D:\Treinamento\C Sharp\Projeto\Secao14\Exemplos\Exemplo_Multiplas_Interface\Exemplo_Multiplas_Interface\bin\Debug\netcoreapp2.1\Exemplo_Multiplas_Interface.runtimeconfig.json
+D:\Treinamento\C Sharp\Projeto\Secao14\Exemplos\Exemplo_Multiplas_Interface\Exemplo_Multiplas_Interface\bin\Debug\netcoreapp2.1\Exemplo_Multiplas_Interface.runtimeconfig.dev.json
+D:\Treinamento\C Sharp\Projeto\Secao14\Exemplos\Exemplo_Multiplas_Interface\Exemplo_Multiplas_Interface\bin\Debug\netcoreapp2.1\Exemplo_Multiplas_Interface.dll
+D:\Treinamento\C Sharp\Projeto\Secao14\Exemplos\Exemplo_Multiplas_Interface\Exemplo_Multiplas_Interface\bin\Debug\netcoreapp2.1\Exemplo_Multiplas_Interface.pdb
+D:\Treinamento\C Sharp\Projeto\Secao14\Exemplos\Exemplo_Multiplas_Interface\Exemplo_Multiplas_Interface\obj\Debug\netcoreapp2.1\Exemplo_Multiplas_Interface.csprojAssemblyReference.cache
+D:\Treinamento\C Sharp\Projeto\Secao14\Exemplos\Exemplo_Multiplas_Interface\Exemplo_Multiplas_Interface\obj\Debug\netcoreapp2.1\Exemplo_Multiplas_Interface.csproj.CoreCompileInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao14\Exemplos\Exemplo_Multiplas_Interface\Exemplo_Multiplas_Interface\obj\Debug\netcoreapp2.1\Exemplo_Multiplas_Interface.AssemblyInfoInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao14\Exemplos\Exemplo_Multiplas_Interface\Exemplo_Multiplas_Interface\obj\Debug\netcoreapp2.1\Exemplo_Multiplas_Interface.AssemblyInfo.cs
+D:\Treinamento\C Sharp\Projeto\Secao14\Exemplos\Exemplo_Multiplas_Interface\Exemplo_Multiplas_Interface\obj\Debug\netcoreapp2.1\Exemplo_Multiplas_Interface.dll
+D:\Treinamento\C Sharp\Projeto\Secao14\Exemplos\Exemplo_Multiplas_Interface\Exemplo_Multiplas_Interface\obj\Debug\netcoreapp2.1\Exemplo_Multiplas_Interface.pdb

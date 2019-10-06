@@ -1,0 +1,11 @@
+D:\Treinamento\C Sharp\Projeto\Secao14\Exemplos\Exemplo03_IComparable\Exemplo03_IComparable\bin\Debug\netcoreapp2.1\Exemplo03_IComparable.deps.json
+D:\Treinamento\C Sharp\Projeto\Secao14\Exemplos\Exemplo03_IComparable\Exemplo03_IComparable\bin\Debug\netcoreapp2.1\Exemplo03_IComparable.runtimeconfig.json
+D:\Treinamento\C Sharp\Projeto\Secao14\Exemplos\Exemplo03_IComparable\Exemplo03_IComparable\bin\Debug\netcoreapp2.1\Exemplo03_IComparable.runtimeconfig.dev.json
+D:\Treinamento\C Sharp\Projeto\Secao14\Exemplos\Exemplo03_IComparable\Exemplo03_IComparable\bin\Debug\netcoreapp2.1\Exemplo03_IComparable.dll
+D:\Treinamento\C Sharp\Projeto\Secao14\Exemplos\Exemplo03_IComparable\Exemplo03_IComparable\bin\Debug\netcoreapp2.1\Exemplo03_IComparable.pdb
+D:\Treinamento\C Sharp\Projeto\Secao14\Exemplos\Exemplo03_IComparable\Exemplo03_IComparable\obj\Debug\netcoreapp2.1\Exemplo03_IComparable.csprojAssemblyReference.cache
+D:\Treinamento\C Sharp\Projeto\Secao14\Exemplos\Exemplo03_IComparable\Exemplo03_IComparable\obj\Debug\netcoreapp2.1\Exemplo03_IComparable.csproj.CoreCompileInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao14\Exemplos\Exemplo03_IComparable\Exemplo03_IComparable\obj\Debug\netcoreapp2.1\Exemplo03_IComparable.AssemblyInfoInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao14\Exemplos\Exemplo03_IComparable\Exemplo03_IComparable\obj\Debug\netcoreapp2.1\Exemplo03_IComparable.AssemblyInfo.cs
+D:\Treinamento\C Sharp\Projeto\Secao14\Exemplos\Exemplo03_IComparable\Exemplo03_IComparable\obj\Debug\netcoreapp2.1\Exemplo03_IComparable.dll
+D:\Treinamento\C Sharp\Projeto\Secao14\Exemplos\Exemplo03_IComparable\Exemplo03_IComparable\obj\Debug\netcoreapp2.1\Exemplo03_IComparable.pdb

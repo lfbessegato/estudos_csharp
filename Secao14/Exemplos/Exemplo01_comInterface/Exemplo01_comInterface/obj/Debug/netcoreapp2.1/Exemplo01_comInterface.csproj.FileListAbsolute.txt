@@ -1,0 +1,11 @@
+D:\Treinamento\C Sharp\Projeto\Secao14\Exemplos\Exemplo01_comInterface\Exemplo01_comInterface\bin\Debug\netcoreapp2.1\Exemplo01_comInterface.deps.json
+D:\Treinamento\C Sharp\Projeto\Secao14\Exemplos\Exemplo01_comInterface\Exemplo01_comInterface\bin\Debug\netcoreapp2.1\Exemplo01_comInterface.runtimeconfig.json
+D:\Treinamento\C Sharp\Projeto\Secao14\Exemplos\Exemplo01_comInterface\Exemplo01_comInterface\bin\Debug\netcoreapp2.1\Exemplo01_comInterface.runtimeconfig.dev.json
+D:\Treinamento\C Sharp\Projeto\Secao14\Exemplos\Exemplo01_comInterface\Exemplo01_comInterface\bin\Debug\netcoreapp2.1\Exemplo01_comInterface.dll
+D:\Treinamento\C Sharp\Projeto\Secao14\Exemplos\Exemplo01_comInterface\Exemplo01_comInterface\bin\Debug\netcoreapp2.1\Exemplo01_comInterface.pdb
+D:\Treinamento\C Sharp\Projeto\Secao14\Exemplos\Exemplo01_comInterface\Exemplo01_comInterface\obj\Debug\netcoreapp2.1\Exemplo01_comInterface.csprojAssemblyReference.cache
+D:\Treinamento\C Sharp\Projeto\Secao14\Exemplos\Exemplo01_comInterface\Exemplo01_comInterface\obj\Debug\netcoreapp2.1\Exemplo01_comInterface.csproj.CoreCompileInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao14\Exemplos\Exemplo01_comInterface\Exemplo01_comInterface\obj\Debug\netcoreapp2.1\Exemplo01_comInterface.AssemblyInfoInputs.cache
+D:\Treinamento\C Sharp\Projeto\Secao14\Exemplos\Exemplo01_comInterface\Exemplo01_comInterface\obj\Debug\netcoreapp2.1\Exemplo01_comInterface.AssemblyInfo.cs
+D:\Treinamento\C Sharp\Projeto\Secao14\Exemplos\Exemplo01_comInterface\Exemplo01_comInterface\obj\Debug\netcoreapp2.1\Exemplo01_comInterface.dll
+D:\Treinamento\C Sharp\Projeto\Secao14\Exemplos\Exemplo01_comInterface\Exemplo01_comInterface\obj\Debug\netcoreapp2.1\Exemplo01_comInterface.pdb
